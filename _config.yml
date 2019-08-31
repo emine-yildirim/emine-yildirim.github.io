@@ -2,5 +2,6 @@ title: Welcome to Emine's Space Station
 description: emine.yildirim@queensu.ca
 
 theme: jekyll-theme-minimal
+mathjax: true
 
 
