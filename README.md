@@ -7,3 +7,19 @@ Hi! I am a Coleman Research Fellow at the [Math Department](https://www.queensu.
 I am the coorganizer of the [Geometry and Representation Theory Seminars](https://mast.queensu.ca/~georep/) at the math department.
 
 In 2020, the [Advances in Representation Theory of Algebras VIII](https://mast.queensu.ca/~arta2020/) will be held at Queen's University. I am one of the organizers of the conference.
+
+<!-- Default Statcounter code for My Webpage https://emine-yildirim.github.io/
+-->
+<script type="text/javascript">
+var sc_project=12104377; 
+var sc_invisible=1; 
+var sc_security="6551011d"; 
+var sc_https=1; 
+var sc_remove_link=1; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js" async></script>
+<noscript><div class="statcounter"><img class="statcounter"
+src="https://c.statcounter.com/12104377/0/6551011d/1/" alt="Web Analytics Made
+Easy - StatCounter"></div></noscript>
+<!-- End of Statcounter Code -->
