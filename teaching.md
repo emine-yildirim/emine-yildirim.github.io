@@ -1,7 +1,6 @@
 # Emine's Teaching Page
 
-> Student : I hate math! 
-
+> Student : I hate math! <br>
 > Me : Love is never easy.
 
 ## Previously taught courses:
