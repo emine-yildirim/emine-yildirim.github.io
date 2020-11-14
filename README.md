@@ -7,6 +7,6 @@ Hi! I am a Coleman Research Fellow at the [Math Department](https://www.queensu.
 
 I am the co-organizer of the [Geometry and Representation Theory Seminars](https://mast.queensu.ca/~georep/) and Algebra Working Seminars at the math department.
 
-I am one of the organizers of the [Advances in Representation Theory of Algebras VIII](https://mast.queensu.ca/~arta2020/). Due to COVID-19, it is postponed. For fruther information, please contact me.
+I am one of the organizers of the [Advances in Representation Theory of Algebras VIII](https://mast.queensu.ca/~arta2020/). Due to COVID-19, it is postponed. For further information, please contact me.
 
 
