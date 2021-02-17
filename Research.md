@@ -3,7 +3,7 @@
 Here is my [CV](Documents/CV-Emine-Yildirim.pdf), and below is a list of my research papers. I listed both the [ArXiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Y%C4%B1ld%C4%B1r%C4%B1m%2C+Emine&terms-0-field=author&classification-mathematics=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first) links, 
 and if published, a link to the published version.
 
-1. [[arXiv]](https://arxiv.org/abs/2006.07285)  C. Paquette, E. Yıldırım, *Completions Of Discrete Cluster Categories Of Type $\mathbb{A}$*, arXiv:2006.07285.
+1. [[arXiv]](https://arxiv.org/abs/2006.07285)  C. Paquette, E. Yıldırım, *Completions Of Discrete Cluster Categories Of Type $\mathbb{A}$*, (accepted) Transactions of the London Mathematical Society.
 
 2. [[arXiv]](https://arxiv.org/abs/1903.10529) V. Bazier-Matte, G. Douville, A. Garver, R. Patrias, H. Thomas, E. Yıldırım, *Leading Terms of $SL_3$ Web Invariants*, arXiv:1903.10529, (accepted) International Mathematics Research Notices. 
 
