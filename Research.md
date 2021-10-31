@@ -1,3 +1,5 @@
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 # Emine's Research Page
 
 Below is a list of my papers and here is the link to the [ArXiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Y%C4%B1ld%C4%B1r%C4%B1m%2C+Emine&terms-0-field=author&classification-mathematics=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first) versions.
