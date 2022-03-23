@@ -4,7 +4,7 @@ Below is a list of my papers and here is the link to the [ArXiv](https://arxiv.o
 
 1. [[arXiv]](https://arxiv.org/pdf/2201.04446.pdf) R. Marczinzik, H. Thomas, and E. Yıldırım, *On the interaction of the Coxeter transformation and the Rowmotion bijection*, arXiv:2201.04446 (submitted).
 
-2. [[published]](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/tlm3.12025)  C. Paquette and E. Yıldırım, *Completions Of Discrete Cluster Categories Of Type A$*, Transactions of the London Mathematical Society (2021), 8(1), 35–64. https://doi.org/10.1112/tlm3.12025
+2. [[published]](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/tlm3.12025)  C. Paquette and E. Yıldırım, *Completions Of Discrete Cluster Categories Of Type A*, Transactions of the London Mathematical Society (2021), 8(1), 35–64. https://doi.org/10.1112/tlm3.12025
 
 3. [[published]](https://academic.oup.com/imrn/advance-article/doi/10.1093/imrn/rnaa110/5850126?login=true) V. Bazier-Matte, G. Douville, A. Garver, R. Patrias, H. Thomas, and E. Yıldırım, *Leading Terms of SL_3 Web Invariants*, International Mathematics Research Notices, (2020), rnaa110. https://doi.org/10.1093/imrn/rnaa110
 
