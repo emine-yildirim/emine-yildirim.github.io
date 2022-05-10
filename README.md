@@ -1,7 +1,7 @@
 [[Home]](https://emine-yildirim.github.io/) [[Research]](https://emine-yildirim.github.io/Research.html) [[Teaching]](https://emine-yildirim.github.io/teaching.html)
  [[Blog]](http://yildirimemine.tumblr.com/)
 
-![me](Pictures/head-emine.jpeg)
+![](Pictures/head-emine.jpeg)[Photo Credit: Dan Aspel]
 
 Hi! I am an INI-Simons Postdoctoral Research Fellow at the [DPMMS](https://www.dpmms.cam.ac.uk/), University of Cambridge. Previously, I was a Coleman Research Fellow at the [Department of Mathematics and Statistics](https://www.queensu.ca/mathstat/), Queen's University. I completed my PhD at the [LACIM](http://lacim.uqam.ca/) with [Hugh Thomas](https://lacim.uqam.ca/membres-reguliers/) in 2018.
 
