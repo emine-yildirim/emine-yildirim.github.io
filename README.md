@@ -3,7 +3,7 @@
 
 ![](Pictures/head-emine.jpeg)[Photo Credit: Dan Aspel]
 
-Hi! I am a postdoctoral research fellow in the [School of Mathematics](https://eps.leeds.ac.uk/maths) at the University of Leeds, working with [Karin Baur](https://www1.maths.leeds.ac.uk/~pmtkb/).
+Hi! I am a postdoctoral researcher in the [School of Mathematics](https://eps.leeds.ac.uk/maths) at the University of Leeds, working with [Karin Baur](https://www1.maths.leeds.ac.uk/~pmtkb/).
 
 I completed my PhD at the [LACIM](http://lacim.uqam.ca/) with [Hugh Thomas](https://lacim.uqam.ca/membres-reguliers/) in 2018. I was an [INI](https://www.newton.ac.uk)-Simons Postdoctoral Research Fellow at the [DPMMS](https://www.dpmms.cam.ac.uk/), University of Cambridge, and before that a Coleman Research Fellow at the [Department of Mathematics and Statistics](https://www.queensu.ca/mathstat/), Queen's University. 
 
