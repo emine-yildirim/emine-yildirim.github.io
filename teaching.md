@@ -1,3 +1,6 @@
+[[Home]](https://emine-yildirim.github.io/) [[Research]](https://emine-yildirim.github.io/Research.html) [[Teaching]](https://emine-yildirim.github.io/teaching.html)
+ [[Blog]](http://yildirimemine.tumblr.com/)
+
 # Emine's Teaching Page
 
 > Student : I hate math! <br>
