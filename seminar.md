@@ -1,3 +1,9 @@
+[[Home]](https://emine-yildirim.github.io/) 
+[[Research]](https://emine-yildirim.github.io/Research.html) 
+[[Teaching]](https://emine-yildirim.github.io/teaching.html)
+[[Leeds Algebra Seminar]](https://emine-yildirim.github.io/seminar.html)
+[[Blog]](http://yildirimemine.tumblr.com/)
+
 # The University of Leeds Algebra Seminar 2023/24  
 ## Tuesdays 15:00 (in MALL or occasionally in other places)
 
