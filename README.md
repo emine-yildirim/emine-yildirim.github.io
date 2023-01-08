@@ -1,5 +1,9 @@
-[[Home]](https://emine-yildirim.github.io/) [[Research]](https://emine-yildirim.github.io/Research.html) [[Teaching]](https://emine-yildirim.github.io/teaching.html)
- [[Blog]](http://yildirimemine.tumblr.com/)
+[[Home]](https://emine-yildirim.github.io/) 
+[[Research]](https://emine-yildirim.github.io/Research.html) 
+[[Teaching]](https://emine-yildirim.github.io/teaching.html)
+[[Leeds Algebra Seminar]](https://emine-yildirim.github.io/seminar.html)
+[[Blog]](http://yildirimemine.tumblr.com/)
+
 
 ![](Pictures/head-emine.jpeg)[Photo Credit: Dan Aspel]
 
