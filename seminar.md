@@ -12,8 +12,8 @@
 | January 31/15:00/MALL   | Benjamin Horton (University of Leeds)        |  TBA     |
 | February 7/15:00/       | Dionne Ibarra   (Monash University)          |          |
 | February 14/15:00/      | Joel Costa da Rocha (University of Leeds)    |          |
-| February 21/15:00/      | Hannah Dell (University of Edinburgh)        |          |
-| February 28/15:00/      |     |          |
+| February 21/15:00/      |        |          |
+| February 28/15:00/      | Hannah Dell (University of Edinburgh)        |          |
 | March 7/15:00/          | Nikita Nikolaev (University of Birmingham)   |          |
 | March 14/15:00/         |     |          |
 | March 21/15:00/         |     |          |
