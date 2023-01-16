@@ -15,6 +15,6 @@
 | February 21/15:00/      | Catherine Meusburger (Friedrich-Alexander-Universität) | A Generalization of Kitaev's quantum double models  |
 | February 28/15:00/      | Hannah Dell (University of Edinburgh)                  |          |
 | March 7/15:00/          | Nikita Nikolaev (University of Birmingham)             | Cluster Algebra Structures from Flat Connections    |
-| March 14/15:00/         |     |          |
+| March 14/15:00/         | Eugen Rogozinnikov (University of Strasbourg)          |          |
 | March 21/15:00/         |     |          |
 | March 28/15:00/         |     |          |
