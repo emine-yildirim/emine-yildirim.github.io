@@ -9,7 +9,7 @@
 
 | Date/Time/Place         | Speaker                                                | Title    |
 | ----------------------- | ------------------------------------------------------ |          |
-| January 31/15:00/MALL   | Benjamin Horton (University of Leeds)                  |  TBA     |
+| January 31/15:00/MALL   | Benjamin Horton (University of Leeds)                  |  Manifolds, Cobordisms, Braids and Loop Braids      |
 | February 7/15:00/       | Dionne Ibarra   (Monash University)                    |          |
 | February 14/15:00/      | Joel Costa da Rocha (University of Leeds)              |          |
 | February 21/15:00/      | Catherine Meusburger (Friedrich-Alexander-Universität) | A Generalization of Kitaev's quantum double models  |
