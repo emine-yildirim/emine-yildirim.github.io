@@ -5,12 +5,12 @@
 [[Blog]](http://yildirimemine.tumblr.com/)
 
 # The University of Leeds Algebra Seminar 2023/24  
-## Tuesdays 15:00 (in MALL or occasionally in other places)
+## Tuesdays 15:00 in MALL
 
 | Date/Time/Place         | Speaker                                                | Title    |
 | ----------------------- | ------------------------------------------------------ |          |
-| January 31/15:00/MALL   | Benjamin Horton (University of Leeds)                  |  Manifolds, Cobordisms, Braids and Loop Braids      |
-| February 7/15:00/       | Dionne Ibarra (Monash University)                      |  Gram Determinants motivated by Knot Theory         |
+| January 31/15:00/       | Benjamin Horton (University of Leeds)                  |  Manifolds, Cobordisms, Braids and Loop Braids      |
+| February 7/15:00/       | Dionne Ibarra   (Monash University)                    |  Gram Determinants motivated by Knot Theory         |
 | February 14/15:00/      | Joel Costa da Rocha (University of Leeds)              |          |
 | February 21/15:00/      | Catherine Meusburger (Friedrich-Alexander-Universität) | A Generalization of Kitaev's quantum double models  |
 | February 28/15:00/      |                                                        |          |
