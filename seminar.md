@@ -10,7 +10,7 @@
 | Date/Time/Place         | Speaker                                                | Title    |
 | ----------------------- | ------------------------------------------------------ |          |
 | January 31/15:00/MALL   | Benjamin Horton (University of Leeds)                  |  Manifolds, Cobordisms, Braids and Loop Braids      |
-| February 7/15:00/       | Dionne Ibarra (Monash University)                      |          |
+| February 7/15:00/       | Dionne Ibarra (Monash University)                      |  Gram Determinants motivated by Knot Theory         |
 | February 14/15:00/      | Joel Costa da Rocha (University of Leeds)              |          |
 | February 21/15:00/      | Catherine Meusburger (Friedrich-Alexander-Universität) | A Generalization of Kitaev's quantum double models  |
 | February 28/15:00/      |                                                        |          |
@@ -41,7 +41,7 @@ Gram Determinants motivated by Knot Theory.
  
 Catherine Meusburger (Friedrich-Alexander-Universität)
  
-A Generalization of Kitaev's quantum double models
+A Generalization of Kitaev's quantum double models.
 
 We describe a construction inspired by Kitaev's quantum double models 
 and related to factorization homology. It assigns to an embedded graph 
