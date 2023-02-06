@@ -14,7 +14,7 @@
 | February 14/15:00/      | Joel Costa da Rocha (University of Leeds)              |          |
 | February 21/15:00/      | Catherine Meusburger (Friedrich-Alexander-Universität) | A Generalization of Kitaev's quantum double models  |
 | February 28/15:00/      |                                                        |          |
-| March 7/15:00/          | Nikita Nikolaev (University of Birmingham)             | Cluster Algebra Structures from Flat Connections    |
+| March 7/15:00/          | Nikita Nikolaev (University of Birmingham)             | Spectral Clusters from the Abelianisation of Groupoid Representations|
 | March 14/15:00/         | Eugen Rogozinnikov (University of Strasbourg)          |          |
 | March 21/15:00/         |                                                        |          |
 | March 28/15:00/         | Hannah Dell (University of Edinburgh)                  |          |
@@ -43,7 +43,7 @@ Catherine Meusburger (Friedrich-Alexander-Universität)
  
 A Generalization of Kitaev's quantum double models.
 
-We describe a construction inspired by Kitaev's quantum double models 
+ We describe a construction inspired by Kitaev's quantum double models 
 and related to factorization homology. It assigns to an embedded graph 
 on an oriented surface S and a Hopf monoid in a (co)complete symmetric 
 monoidal category C an object in C that depends only on S, equipped with 
@@ -57,3 +57,12 @@ and certain equivalence classes of representation varieties as morphisms.
 This is based on joint work with Thomas Voss and Anna-Katharina Hirmer.
 
 ---
+
+Nikita Nikolaev (University of Birmingham) 
+
+Spectral Clusters from the Abelianisation of Groupoid Representations
+
+ Perhaps surprisingly, flat meromorphic connections on holomorphic bundles over complex manifolds — objects that you’d probably consign to a purely differential-geometric context — can be equivalently studied using the representation theory of naturally associated groups or, better yet, Lie groupoids. The moduli spaces of these representations are really remarkable geometric objects that carry many interesting structures, including a symplectic structure and a cluster algebra structure. I will talk about various aspects of my ongoing series of projects to study these spaces using a method called abelianisation which one can think of as a kind of spectral theory for connections.
+ 
+ ---
+
