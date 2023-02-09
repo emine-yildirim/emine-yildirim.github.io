@@ -9,10 +9,10 @@
 
 | Date/Time/Place         | Speaker                                                | Title    |
 | ----------------------- | ------------------------------------------------------ |          |
-| January 31/15:00/       | Benjamin Horton (University of Leeds)                  |  Manifolds, Cobordisms, Braids and Loop Braids      |
-| February 7/15:00/       | Dionne Ibarra   (Monash University)                    |  Gram Determinants motivated by Knot Theory         |
-| February 14/15:00/      | Joel Costa da Rocha (University of Leeds)              |          |
-| February 21/15:00/      | Catherine Meusburger (Friedrich-Alexander-Universität) | A Generalization of Kitaev's quantum double models  |
+| January 31/15:00/       | Benjamin Horton (University of Leeds)                  | Manifolds, Cobordisms, Braids and Loop Braids      |
+| February 7/15:00/       | Dionne Ibarra   (Monash University)                    | Gram Determinants motivated by Knot Theory         |
+| February 14/15:00/      | Joel Costa da Rocha (University of Leeds)              | Parametrising positroid cells using bicolored tilings |
+| February 21/15:00/      | Catherine Meusburger (Friedrich-Alexander-Universität) | A Generalization of Kitaev's quantum double models |
 | February 28/15:00/      |                                                        |          |
 | March 7/15:00/          | Nikita Nikolaev (University of Birmingham)             | Spectral Clusters from the Abelianisation of Groupoid Representations|
 | March 14/15:00/         | Eugen Rogozinnikov (University of Strasbourg)          |          |
@@ -38,6 +38,14 @@ Gram Determinants motivated by Knot Theory.
  In the 1990's, a general formula for the Gram determinant of Type A was formulated in order to prove the existence and uniqueness of Lickorish's construct of the Witten-Reshetikhin-Turaev invariants of 3-manifolds. Since then, various types of Gram determinants have been created from knot theory by using crossingless connections in surfaces with boundary. In this talk we will introduce the different types and present recent work on the progress to proving a closed formula for a particularly complicated conjectured closed formula for the Gram determinant of Type Mb. We will end with observations and questions about the potential connection between Gram determinants motivated by knot theory and statistical mechanics.
  
  ---
+ 
+ Joel Costa da Rocha (University of Leeds) 
+ 
+Parametrising positroid cells using bicolored tilings
+ 
+ Triangulations of an n-gon are in bijection with reduced Postnikov diagrams of type (2,n), with diagonal flips in the triangulation corresponding to geometric exchanges in the Postnikov diagram, and both corresponding to mutations of corresponding quivers. We introduce bicolored tilings to generalise this correspondence. We can then use these tilings to parametrise positroid cells of the Grassmannian, or generate Postnikov diagrams for any given permutation.
+
+---
  
 Catherine Meusburger (Friedrich-Alexander-Universität)
  
