@@ -75,4 +75,12 @@ Spectral Clusters from the Abelianisation of Groupoid Representations
  Perhaps surprisingly, flat meromorphic connections on holomorphic bundles over complex manifolds — objects that you’d probably consign to a purely differential-geometric context — can be equivalently studied using the representation theory of naturally associated groups or, better yet, Lie groupoids. The moduli spaces of these representations are really remarkable geometric objects that carry many interesting structures, including a symplectic structure and a cluster algebra structure. I will talk about various aspects of my ongoing series of projects to study these spaces using a method called abelianisation which one can think of as a kind of spectral theory for connections.
  
  ---
+ 
+ Eugen Rogozinnikov (University of Strasbourg)
+ 
+Noncommutative Coordinates for Maximal Symplectic Representations
+
+ Representations of the fundamental group of an orientable surface of finite type into a Hermitian Lie group with maximal Toledo invariant are of particular interest in higher Teichmüller theory. These representations have been studied by M. Burger, A. Iozzi, and A. Wienhard and generalize Fuchsian representations of the fundamental group of a surface into PSL(2, R). Moreover, maximal representations have particularly nice properties, e.g. they are injective with a discrete image.
+
+In my talk I will introduce coordinates on the space of decorated maximal representations of the fundamental group of a punctured surface into Sp(2n, R). These coordinates generalize the Fock-Goncharov coordinates for representations into SL(2, R) and have a nice non-commutative cluster-like structure. If time permits, I will talk about how we can use these coordinates to understand the topology of the space of decorated maximal representations. This is a joint work with D. Alessandrini, O. Guichard and A. Wienhard.
 
