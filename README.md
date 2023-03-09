@@ -13,4 +13,4 @@ I completed my PhD at the [LACIM](http://lacim.uqam.ca/) with [Hugh Thomas](http
 
 I am one of the organisers of the [ARTA IX](https://sites.google.com/view/arta9/home) to be held at Queen's University in 2023. I was one of the organizers of the [Virtual Advances in Representation Theory of Algebras 2021](https://sites.google.com/view/arta2021/) and I co-organized a [seminar series](https://www.newton.ac.uk/event/car/) at the Isaac Newton Institute under the Cluster algebras and representation theory (CAR) program.
 
-
+Merhaba! Depremden etkilenen üniversite öğrencilerimize destek platformuna lütfen göz atın: https://sites.google.com/view/matematikdayanisma
