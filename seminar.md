@@ -19,6 +19,7 @@
 | March 21/15:00/         |                                                        |          |
 | March 28/15:00/         | Hannah Dell (University of Edinburgh)                  |          |
 | May 9/15:00/            | İpek Tuvay  (Mimar Sinan Fine Arts University)         |          |
+| May 16/15:00/           | Dani Kaufman  (University of Copenhagen)               |          |
 
 ### Abstracts:
 
