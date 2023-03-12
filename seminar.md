@@ -17,7 +17,7 @@
 | March 7/15:00/          | Nikita Nikolaev (University of Birmingham)             | Spectral Clusters from the Abelianisation of Groupoid Representations|
 | March 14/15:00/         | Eugen Rogozinnikov (University of Strasbourg)          |          |
 | March 21/15:00/         |                                                        |          |
-| March 28/15:00/         | Hannah Dell (University of Edinburgh)                  |          |
+| March 28/15:00/         | Hannah Dell (University of Edinburgh)                  | Stability conditions on free abelian quotients     |
 | May 9/15:00/            | İpek Tuvay  (Mimar Sinan Fine Arts University)         |          |
 | May 16/15:00/           | Dani Kaufman  (University of Copenhagen)               |          |
 
