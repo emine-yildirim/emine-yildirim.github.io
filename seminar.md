@@ -76,7 +76,7 @@ Spectral Clusters from the Abelianisation of Groupoid Representations
  
  ---
  
- Eugen Rogozinnikov (University of Strasbourg)
+Eugen Rogozinnikov (University of Strasbourg)
  
 Noncommutative Coordinates for Maximal Symplectic Representations
 
@@ -84,3 +84,12 @@ Noncommutative Coordinates for Maximal Symplectic Representations
 
 In my talk I will introduce coordinates on the space of decorated maximal representations of the fundamental group of a punctured surface into Sp(2n, R). These coordinates generalize the Fock-Goncharov coordinates for representations into SL(2, R) and have a nice non-commutative cluster-like structure. If time permits, I will talk about how we can use these coordinates to understand the topology of the space of decorated maximal representations. This is a joint work with D. Alessandrini, O. Guichard and A. Wienhard.
 
+---
+
+Hannah Dell (University of Edinburgh)
+
+Stability conditions on free abelian quotients 
+
+Stability conditions on triangulated categories were introduced by Tom Bridgeland in 2007. They generalise several notions of stability, such as slope-stability for vector bundles on curves and King stability for quiver representations. Bridgeland showed that the space of stability conditions on a given triangulated category can be viewed as a complex manifold, giving us a way to extract geometry from homological algebra. However, an explicit description of the stability manifold is only known in a few cases. 
+
+In this talk, I will discuss two approaches to studying stability conditions on derived categories of surfaces that are free quotients by finite abelian groups. One method is via Le Potier functions, which characterise the existence of slope-semistable sheaves. The second method uses Deligne’s notion of group actions on triangulated categories to describe a connected component of so-called geometric stability conditions inside the stability manifold of these finite free abelian quotients. A consequence of this is a disproof of the expectation that surfaces with irregularity 0 always admit a wall of the geometric chamber.
