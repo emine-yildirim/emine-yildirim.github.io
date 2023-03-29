@@ -18,8 +18,10 @@
 | March 14/15:00/         | Eugen Rogozinnikov (University of Strasbourg)          |          |
 | March 21/15:00/         |                                                        |          |
 | March 28/15:00/         | Hannah Dell (University of Edinburgh)                  | Stability conditions on free abelian quotients     |
-| May 9/15:00/            | İpek Tuvay  (Mimar Sinan Fine Arts University)         |          |
+| May 9/15:00/            | Colin Krawchuk (University of Cambridge)               |          |
 | May 16/15:00/           | Dani Kaufman  (University of Copenhagen)               |          |
+| May 23/15:00/           | İpek Tuvay  (Mimar Sinan Fine Arts University)         |          |
+
 
 ### Abstracts:
 
