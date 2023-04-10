@@ -15,9 +15,10 @@
 | February 21/15:00/      | Catherine Meusburger (Friedrich-Alexander-Universität) | A Generalization of Kitaev's quantum double models |
 | February 28/15:00/      |                                                        |          |
 | March 7/15:00/          | Nikita Nikolaev (University of Birmingham)             | Spectral Clusters from the Abelianisation of Groupoid Representations|
-| March 14/15:00/         | Eugen Rogozinnikov (University of Strasbourg)          |          |
+| March 14/15:00/         | Eugen Rogozinnikov (University of Strasbourg)          | Noncommutative Coordinates for Maximal Symplectic Representations |
 | March 21/15:00/         |                                                        |          |
 | March 28/15:00/         | Hannah Dell (University of Edinburgh)                  | Stability conditions on free abelian quotients     |
+| April 18/15:00          | Eric Hanson (Université du Québec à Montréal)          | |
 | May 9/15:00/            | Colin Krawchuk (University of Cambridge)               |          |
 | May 16/15:00/           | Dani Kaufman  (University of Copenhagen)               |          |
 | May 23/15:00/           | İpek Tuvay  (Mimar Sinan Fine Arts University)         |          |
