@@ -18,7 +18,7 @@
 | March 14/15:00/         | Eugen Rogozinnikov (University of Strasbourg)          | Noncommutative Coordinates for Maximal Symplectic Representations |
 | March 21/15:00/         |                                                        |          |
 | March 28/15:00/         | Hannah Dell (University of Edinburgh)                  | Stability conditions on free abelian quotients     |
-| April 18/15:00          | Eric Hanson (Université du Québec à Montréal)          | |
+| April 18/15:00          | Eric Hanson (Université du Québec à Montréal)          | Infinitesimal wall-and-chamber structures          |
 | May 9/15:00/            | Colin Krawchuk (University of Cambridge)               |          |
 | May 16/15:00/           | Dani Kaufman  (University of Copenhagen)               |          |
 | May 23/15:00/           | İpek Tuvay  (Mimar Sinan Fine Arts University)         |          |
@@ -96,3 +96,11 @@ Stability conditions on free abelian quotients
 Stability conditions on triangulated categories were introduced by Tom Bridgeland in 2007. They generalise several notions of stability, such as slope-stability for vector bundles on curves and King stability for quiver representations. Bridgeland showed that the space of stability conditions on a given triangulated category can be viewed as a complex manifold, giving us a way to extract geometry from homological algebra. However, an explicit description of the stability manifold is only known in a few cases. 
 
 In this talk, I will discuss two approaches to studying stability conditions on derived categories of surfaces that are free quotients by finite abelian groups. One method is via Le Potier functions, which characterise the existence of slope-semistable sheaves. The second method uses Deligne’s notion of group actions on triangulated categories to describe a connected component of so-called geometric stability conditions inside the stability manifold of these finite free abelian quotients. A consequence of this is a disproof of the expectation that surfaces with irregularity 0 always admit a wall of the geometric chamber.
+
+---
+
+Eric Hanson (Université du Québec à Montréal)
+
+Infinitesimal wall-and-chamber structures
+
+Loosely speaking, a wall-and-chamber structure is determined by a set of convex codimension 1 cones (called "walls") in R^n. Such structures in particular arise when considering stability conditions for finite-dimensional algebras over fields. In this talk, we explain how the "infinitesimal structure" near an accumulation point of walls can be used to define a new wall-and-chamber structure of smaller dimension. We then study these new structures over tame hereditary algebras. This talk will not assume prior knowledge of stability conditions or of finite-dimensional algebras.
