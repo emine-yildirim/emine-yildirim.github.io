@@ -19,7 +19,7 @@
 | March 21/15:00/         |                                                        |          |
 | March 28/15:00/         | Hannah Dell (University of Edinburgh)                  | Stability conditions on free abelian quotients     |
 | April 18/15:00          | Eric Hanson (Université du Québec à Montréal)          | Infinitesimal wall-and-chamber structures          |
-| May 9/15:00/            | Colin Krawchuk (University of Cambridge)               |          |
+| May 9/15:00/            | Colin Krawchuk (University of Cambridge)               | Higher Friezes and Higher AR Theory                |
 | May 16/15:00/           | Dani Kaufman  (University of Copenhagen)               |          |
 | May 23/15:00/           | İpek Tuvay  (Mimar Sinan Fine Arts University)         |          |
 
@@ -104,3 +104,11 @@ Eric Hanson (Université du Québec à Montréal)
 Infinitesimal wall-and-chamber structures
 
 Loosely speaking, a wall-and-chamber structure is determined by a set of convex codimension 1 cones (called "walls") in R^n. Such structures in particular arise when considering stability conditions for finite-dimensional algebras over fields. In this talk, we explain how the "infinitesimal structure" near an accumulation point of walls can be used to define a new wall-and-chamber structure of smaller dimension. We then study these new structures over tame hereditary algebras. This talk will not assume prior knowledge of stability conditions or of finite-dimensional algebras.
+
+---
+
+Colin Krawchuk (University of Cambridge)
+
+Higher Friezes and Higher AR Theory
+
+Friezes are patterns of integers that may be viewed as specialisations of cluster variables belonging to an associated cluster algebra. More abstractly, one can associate a frieze to each cluster tilting object in a cluster category via the Caldero-Chapoton map. Recently McMahon introduced (k,n)-frieze patterns as a generalisation of friezes and showed that clusters in the homogeneous coordinate ring of the Grassmannian could similarly produce (k,n)-friezes. In this talk we discuss a representation theoretic connection between higher friezes and higher homological algebra.
