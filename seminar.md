@@ -20,7 +20,7 @@
 | March 28/15:00/         | Hannah Dell (University of Edinburgh)                  | Stability conditions on free abelian quotients     |
 | April 18/15:00          | Eric Hanson (Université du Québec à Montréal)          | Infinitesimal wall-and-chamber structures          |
 | May 9/15:00/            | Colin Krawchuk (University of Cambridge)               | Higher Friezes and Higher AR Theory                |
-| May 16/15:00/           | Dani Kaufman  (University of Copenhagen)               |          |
+| May 16/15:00/           | Dani Kaufman  (University of Copenhagen)               | Special Folding of Grassmannian Cluster Algebras        |
 | May 23/15:00/           | İpek Tuvay  (Mimar Sinan Fine Arts University)         |          |
 
 
