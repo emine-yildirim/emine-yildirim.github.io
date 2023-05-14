@@ -112,3 +112,11 @@ Colin Krawchuk (University of Cambridge)
 Higher Friezes and Higher AR Theory
 
 Friezes are patterns of integers that may be viewed as specialisations of cluster variables belonging to an associated cluster algebra. More abstractly, one can associate a frieze to each cluster tilting object in a cluster category via the Caldero-Chapoton map. Recently McMahon introduced (k,n)-frieze patterns as a generalisation of friezes and showed that clusters in the homogeneous coordinate ring of the Grassmannian could similarly produce (k,n)-friezes. In this talk we discuss a representation theoretic connection between higher friezes and higher homological algebra.
+
+---
+
+Dani Kaufman (University of Copenhagen)
+
+Special Folding of Grassmannian Cluster Algebras
+
+In a recent preprint I defined a notion of a “special folding” of a cluster algebra. A usual folding of a cluster algebra is one that can be represented with a skew-symmetrizable exchange matrix, like the folding representing a type C_n algebra from a type A_(2n-1) algebra. Special folding, which cannot be represented by a skew symmetrizable matrix, can have surprising new properties like producing a finite exchange complex from an infinite one. In this talk I will define this notion and give several examples coming from Grassmannian cluster algebras.
