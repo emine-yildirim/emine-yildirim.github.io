@@ -21,7 +21,7 @@
 | April 18/15:00          | Eric Hanson (Université du Québec à Montréal)          | Infinitesimal wall-and-chamber structures          |
 | May 9/15:00/            | Colin Krawchuk (University of Cambridge)               | Higher Friezes and Higher AR Theory                |
 | May 16/15:00/           | Dani Kaufman  (University of Copenhagen)               | Special Folding of Grassmannian Cluster Algebras        |
-| May 23/15:00/           | İpek Tuvay  (Mimar Sinan Fine Arts University)         |          |
+| May 23/15:00/           | İpek Tuvay  (Mimar Sinan Fine Arts University)         | Splendid Morita equivalence between block algebras and Brauer indecomposability of Scott modules         |
 
 
 ### Abstracts:
@@ -120,3 +120,11 @@ Dani Kaufman (University of Copenhagen)
 Special Folding of Grassmannian Cluster Algebras
 
 In a recent preprint I defined a notion of a “special folding” of a cluster algebra. A usual folding of a cluster algebra is one that can be represented with a skew-symmetrizable exchange matrix, like the folding representing a type C_n algebra from a type A_(2n-1) algebra. Special folding, which cannot be represented by a skew symmetrizable matrix, can have surprising new properties like producing a finite exchange complex from an infinite one. In this talk I will define this notion and give several examples coming from Grassmannian cluster algebras.
+
+---
+
+İpek Tuvay (Mimar Sinan Fine Arts University)
+
+Splendid Morita equivalence between block algebras and Brauer indecomposability of Scott modules
+
+Let p be a prime number and P a finite p-group. In the representation theory of finite groups in characteristic p, understanding finite block algebras with defect groups isomorphic to P up to splendid Morita equivalence is important. There is a strong connection between the existence of such equivalence between principal block algebras and Brauer indecomposability of Scott modules. In this talk, after a short introduction we will present a recent result from a joint work with S. Koshitani which gives an equivalent condition for a Scott module to be Brauer indecomposable. Then we will discuss how the notion of Brauer indecomposability is used to show that Puig Conjecture holds for principal blocks in tame representation type.
