@@ -1,7 +1,7 @@
 [[Home]](https://emine-yildirim.github.io/) 
 [[Research]](https://emine-yildirim.github.io/Research.html) 
 [[Teaching]](https://emine-yildirim.github.io/teaching.html)
-[[Leeds Algebra Seminar]](https://emine-yildirim.github.io/seminar.html)
+[[Leeds Algebra Seminar]](https://emine-yildirim.github.io/Leeds_Seminar_2023-24.html)
 [[Blog]](http://yildirimemine.tumblr.com/)
 
 # Emine's Teaching Page
