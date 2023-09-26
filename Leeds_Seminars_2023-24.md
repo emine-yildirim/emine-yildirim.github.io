@@ -10,15 +10,30 @@
 | Date/Time/Place         | Speaker                                                | Title    |
 | ----------------------- | ------------------------------------------------------ |          |
 | October 3 /15:00/       | Farrokh Atai (University of Leeds)                     |          |
-| October 10/15:00/       |               |          |
-| October 17/15:00/       |               |          |
+| October 10/15:00/       |                                                        |          |
+| October 17/15:00/       | Alison Parker (University of Leeds)                    |          |
 | October 24/15:00/       | Bradley Ryan (University of Leeds)                     |          |
 | October 31/15:00/       | Sam Hannah (Cardiff University)                        |          |
 | November 7/15:00/       | Eleonore Faber (University of Leeds)                   |          |
 | November 14/15:00/      | Jeffrey Hicks (University of Edinburgh)                |          |
 | November 21/15:00/      |                                                        |          |
-| November 28/15:00/      |               |          |
+| November 28/15:00/      |                                                        |          |
 | December 5/15:00        | Michael Wilmer (University of Leeds)                   |          |
+| December 12/15:00       |                                                        |          |
 
+
+### Abstracts:
+
+---
+
+Farrokh Atai (University of Leeds)
+
+Vertex operator algebra and super-Jack polynomials
+
+ The fruitful interplay between representation theory and the theory of special functions has led to many interesting discoveries in mathematical physics. Moreover, it is known that representations of certain infinite dimensional algebras can be used to give a mathematical formulation of some quantum field theories.
+
+In this talk, I will recall how highest weight representations of certain affine Kac-Moody algebras are given by field operators and symmetric functions. Using the field operators, we can construct vertex operator with interesting applications in mathematical physics. By considering a one-parameter extension of these vertex operators, we also find that they are closely related to the integrable Calogero-Moser-Sutherland models. In particular, we find that there is a one-to-one correspondence between the space spanned by these vertex operators and the so-called super-Jack polynomials. If time permits, I will also discuss how this approach can be used to construct a Laurent polynomial generalization of the super-Jack polynomials.
+ 
+ ---
 
 [2023 Leeds Algebra Seminars](https://emine-yildirim.github.io/seminar.html)
