@@ -7,9 +7,9 @@
 # The University of Leeds Algebra Seminar 2023/24  
 ## Tuesdays 15:00 in MALL
 
-| Date/Time/Place   | Speaker                                                | Title    |
+| Date              | Speaker                                                | Title    |
 | ----------------- | ------------------------------------------------------ |          |
-| October 3         | Farrokh Atai (University of Leeds)                     |          |
+| October 3         | Farrokh Atai (University of Leeds)                     | Vertex operator algebra and super-Jack polynomials |
 | October 10        |                                                        |          |
 | October 17        | Alison Parker (University of Leeds)                    |          |
 | October 24        | Bradley Ryan (University of Leeds)                     |          |
