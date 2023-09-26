@@ -7,6 +7,8 @@
 # The University of Leeds Algebra Seminar 2023/24  
 ## Tuesdays 15:00 in MALL
 
+Co-organized with my amazing colleague [[Francesca Fedele]](https://sites.google.com/view/francescafedele/home)
+
 | Date         | Speaker                                           | Title    |
 | -------------| --------------------------------------------------| -------------------------------------------------- |
 | October 3    | Farrokh Atai (University of Leeds)                | Vertex operator algebra and super-Jack polynomials |
@@ -18,7 +20,7 @@
 | November 14  | Jeffrey Hicks (University of Edinburgh)           |          |
 | November 21  |                                                   |          |
 | November 28  |                                                   |          |
-| December 5   | Michael Wilmer (University of Leeds)              |          |
+| December 5   | Michael Wibmer (University of Leeds)              |          |
 | December 12  |                                                   |          |
 
 
