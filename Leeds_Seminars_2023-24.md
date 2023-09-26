@@ -7,19 +7,19 @@
 # The University of Leeds Algebra Seminar 2023/24  
 ## Tuesdays 15:00 in MALL
 
-| Date              | Speaker                                                | Title    |
-| ----------------- | ------------------------------------------------------ |          |
-| October 3         | Farrokh Atai (University of Leeds)                     | Vertex operator algebra and super-Jack polynomials |
-| October 10        |                                                        |          |
-| October 17        | Alison Parker (University of Leeds)                    |          |
-| October 24        | Bradley Ryan (University of Leeds)                     |          |
-| October 31        | Sam Hannah (Cardiff University)                        |          |
-| November 7        | Eleonore Faber (University of Leeds)                   |          |
-| November 14       | Jeffrey Hicks (University of Edinburgh)                |          |
-| November 21       |                                                        |          |
-| November 28       |                                                        |          |
-| December 5        | Michael Wilmer (University of Leeds)                   |          |
-| December 12       |                                                        |          |
+| Date         | Speaker                                           | Title    |
+| -------------| --------------------------------------------------| -------------------------------------------------- |
+| October 3    | Farrokh Atai (University of Leeds)                | Vertex operator algebra and super-Jack polynomials |
+| October 10   |                                                   |          |
+| October 17   | Alison Parker (University of Leeds)               |          |
+| October 24   | Bradley Ryan (University of Leeds)                |          |
+| October 31   | Sam Hannah (Cardiff University)                   |          |
+| November 7   | Eleonore Faber (University of Leeds)              |          |
+| November 14  | Jeffrey Hicks (University of Edinburgh)           |          |
+| November 21  |                                                   |          |
+| November 28  |                                                   |          |
+| December 5   | Michael Wilmer (University of Leeds)              |          |
+| December 12  |                                                   |          |
 
 
 
