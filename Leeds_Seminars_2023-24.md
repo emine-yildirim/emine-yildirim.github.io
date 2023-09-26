@@ -7,19 +7,22 @@
 # The University of Leeds Algebra Seminar 2023/24  
 ## Tuesdays 15:00 in MALL
 
-| Date/Time/Place         | Speaker                                                | Title    |
-| ----------------------- | ------------------------------------------------------ |          |
-| October 3 /15:00/       | Farrokh Atai (University of Leeds)                     |          |
-| October 10/15:00/       |                                                        |          |
-| October 17/15:00/       | Alison Parker (University of Leeds)                    |          |
-| October 24/15:00/       | Bradley Ryan (University of Leeds)                     |          |
-| October 31/15:00/       | Sam Hannah (Cardiff University)                        |          |
-| November 7/15:00/       | Eleonore Faber (University of Leeds)                   |          |
-| November 14/15:00/      | Jeffrey Hicks (University of Edinburgh)                |          |
-| November 21/15:00/      |                                                        |          |
-| November 28/15:00/      |                                                        |          |
-| December 5/15:00        | Michael Wilmer (University of Leeds)                   |          |
-| December 12/15:00       |                                                        |          |
+| Date/Time/Place   | Speaker                                                | Title    |
+| ----------------- | ------------------------------------------------------ |          |
+| October 3         | Farrokh Atai (University of Leeds)                     |          |
+| October 10        |                                                        |          |
+| October 17        | Alison Parker (University of Leeds)                    |          |
+| October 24        | Bradley Ryan (University of Leeds)                     |          |
+| October 31        | Sam Hannah (Cardiff University)                        |          |
+| November 7        | Eleonore Faber (University of Leeds)                   |          |
+| November 14       | Jeffrey Hicks (University of Edinburgh)                |          |
+| November 21       |                                                        |          |
+| November 28       |                                                        |          |
+| December 5        | Michael Wilmer (University of Leeds)                   |          |
+| December 12       |                                                        |          |
+
+
+
 
 
 ### Abstracts:
