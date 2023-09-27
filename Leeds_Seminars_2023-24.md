@@ -21,7 +21,7 @@ Co-organised with my amazing colleague [[Francesca Fedele]](https://sites.google
 | November 21  |                                                   |          |
 | November 28  |                                                   |          |
 | December 5   | Michael Wibmer (University of Leeds)              |          |
-| December 12  |                                                   |          |
+| December 12  | Sofia Franchini (Lancaster University)            |          |
 
 
 
