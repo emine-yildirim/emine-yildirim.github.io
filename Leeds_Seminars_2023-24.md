@@ -18,8 +18,8 @@ Co-organised with my amazing colleague [[Francesca Fedele]](https://sites.google
 | October 31   | Sam Hannah (Cardiff University)                   |          |
 | November 7   | Eleonore Faber (University of Leeds)              |          |
 | November 14  | Jeffrey Hicks (University of Edinburgh)           |          |
-| November 21  |                                                   |          |
-| November 28  | Jack Romo (University of Leeds)                   |          |
+| November 21  | Jack Romo (University of Leeds)                   |          |
+| November 28  |                                                   |          |
 | December 5   | Michael Wibmer (University of Leeds)              |          |
 | December 12  | Sofia Franchini (Lancaster University)            |          |
 
