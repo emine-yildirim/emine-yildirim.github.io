@@ -23,7 +23,9 @@ Co-organised with my amazing colleague [[Francesca Fedele]](https://sites.google
 | December 5   | Michael Wibmer (University of Leeds)              |          |
 | December 12  | Sofia Franchini (Lancaster University)            |          |
 
+---
 
+| February 6   |Nivedita Viswanathan (Brunel University London)    |          |
 
 
 
