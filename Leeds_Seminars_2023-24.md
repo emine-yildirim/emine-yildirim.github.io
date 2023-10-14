@@ -58,6 +58,7 @@ Resolutions from the perspective of symplectic geometry
 One of the great insights of homological algebra is that one can resolve a complicated object into a complex of simpler ones. This talk will look at resolutions from several different perspectives - commutative algebra, algebraic geometry, topology, and differential geometry. We will then see how resolutions appear naturally in symplectic geometry, focusing on examples in real dimension 2 (so we may draw everything on the board - no background in symplectic geometry is needed for the talk!). Time permitting, I'll discuss some applications to toric varieties:
  - how applying the mirror symmetry dictionary to this perspective provides minimal-length resolutions for toric subvarieties,
  - compute the diagonal dimension (and consequently Rouquier dimension) of the derived category of coherent sheaves of a toric variety.
+   
 All work is joint with Andrew Hanlon and Oleg Lazarev.
 
 ---
