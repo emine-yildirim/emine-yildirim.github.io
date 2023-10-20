@@ -14,7 +14,7 @@ Co-organised with my amazing colleague [[Francesca Fedele]](https://sites.google
 | October 3    | Farrokh Atai (University of Leeds)                | Vertex operator algebra and super-Jack polynomials |
 | October 10   |                                                   |          |
 | October 17   | Alison Parker (University of Leeds)               | Some representation theory of Kadar-Martin-Yu algebras |
-| October 24   | Bradley Ryan (University of Leeds)                |          |
+| October 24   | Bradley Ryan (University of Leeds)                | Double Affine Hecke Algebras and Character Varieties   |
 | October 31   | Sam Hannah (Cardiff University)                   |          |
 | November 7   | Eleonore Faber (University of Leeds)              |          |
 | November 14  | Jeffrey Hicks (University of Edinburgh)           | Resolutions from the perspective of symplectic geometry|
@@ -48,6 +48,14 @@ Alison Parker (University of Leeds)
 Some representation theory of Kadar-Martin-Yu algebras
 
 Kadar-Martin-Yu introduced a new chain of subalgebras of the Brauer algebra. These algebras start with Temperley-Lieb and end with the Brauer algebra and build in representation theoretic intensity. This gives a new tool to tackle the long standing problem of understanding the representation theory of the Brauer algebra. We present an introduction to these new algebras and some results about their representation theory. This is joint work with my PhD student N. M. Alraddadi.
+
+---
+
+Bradley Ryan (University of Leeds)
+
+Double Affine Hecke Algebras and Character Varieties
+
+The double affine Hecke algebra (DAHA) was introduced by Ivan Cherednik in order to prove Macdonald's conjectures. Developments from Noumi, Sahi and Stokman extended Cherednik's definition to produce a DAHA with connections to Koornwinder polynomials. It has been conjectured that the centre of this DAHA at the "classical level" is isomorphic to the algebra of functions on a particular character variety. In this talk, we introduce this DAHA and motivate a proof of this conjecture. This is based on joint work-in-progress with my PhD supervisor Oleg Chalykh.
 
 ---
 
