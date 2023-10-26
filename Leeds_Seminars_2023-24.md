@@ -12,14 +12,14 @@ Co-organised with my amazing colleague [[Francesca Fedele]](https://sites.google
 | Date         | Speaker                                           | Title    |
 | -------------| --------------------------------------------------| -------------------------------------------------- |
 | October 3    | Farrokh Atai (University of Leeds)                | Vertex operator algebra and super-Jack polynomials |
-| October 10   |                                                   |          |
+| October 10   |  no seminar                                       |          |
 | October 17   | Alison Parker (University of Leeds)               | Some representation theory of Kadar-Martin-Yu algebras |
 | October 24   | Bradley Ryan (University of Leeds)                | Double Affine Hecke Algebras and Character Varieties   |
-| October 31   | Sam Hannah (Cardiff University)                   |          |
-| November 7   | Eleonore Faber (University of Leeds)              |          |
+| October 31   | Sam Hannah (Cardiff University)                   | Classifying Frobenius Algebras in Dijkgraaf-Witten Categories|
+| November 7   |   no seminar                                      |          |
 | November 14  | Jeffrey Hicks (University of Edinburgh)           | Resolutions from the perspective of symplectic geometry|
 | November 21  | Jack Romo (University of Leeds)                   |          |
-| November 28  |                                                   |          |
+| November 28  | Katherine Ormeño Bastias (Universidad de Talca)   |          |
 | December 5   | Michael Wibmer (University of Leeds)              |          |
 | December 12  | Sofia Franchini (Lancaster University)            |          |
 
@@ -56,6 +56,15 @@ Bradley Ryan (University of Leeds)
 Double Affine Hecke Algebras and Character Varieties
 
 The double affine Hecke algebra (DAHA) was introduced by Ivan Cherednik in order to prove Macdonald's conjectures. Developments from Noumi, Sahi and Stokman extended Cherednik's definition to produce a DAHA with connections to Koornwinder polynomials. It has been conjectured that the centre of this DAHA at the "classical level" is isomorphic to the algebra of functions on a particular character variety. In this talk, we introduce this DAHA and motivate a proof of this conjecture. This is based on joint work-in-progress with my PhD supervisor Oleg Chalykh.
+
+---
+
+Sam Hannah (Cardiff University)
+
+Classifying Frobenius Algebras in Dijkgraaf-Witten Categories
+
+Algebra objects are interesting objects in category theory, with particular uses in classifying modules over tensor categories. Detecting and classifying algebra objects provides an important goal in understanding the representation theory of such categories.
+Dijkgraaf-Witten categories are an example of tensor categories associated to a finite group G and a 3-cocycle on G. During this talk, I will present a classification of Frobenius algebras in these categories, generalising existing results by Davydov-Simmons to a field of arbitrary characteristic. This is done by means of a Frobenius Monoidal Functor. Joint work with Ana Ros Camacho (Cardiff) and Robert Laugwitz (Nottingham).
 
 ---
 
