@@ -18,7 +18,8 @@ Co-organised with my amazing colleague [[Francesca Fedele]](https://sites.google
 | October 31   | Sam Hannah (Cardiff University)                   | Classifying Frobenius Algebras in Dijkgraaf-Witten Categories|
 | November 7   |   no seminar                                      |          |
 | November 14  | Jeffrey Hicks (University of Edinburgh)           | Resolutions from the perspective of symplectic geometry|
-| November 21  | Jack Romo (University of Leeds)                   |          |
+| November 21  | Jack Romo (University of Leeds)                   | Homotopy Bicategories of Complete 2-fold Segal Spaces  |
+| November 22  | Michael Tsironis (Vrije Universiteit Amsterdam)   | Skein relations for punctured surfaces|
 | November 28  | Katherine Ormeño Bastias (Universidad de Talca)   |          |
 | December 5   | Michael Wibmer (University of Leeds)              |          |
 | December 12  | Sofia Franchini (Lancaster University)            |          |
@@ -80,5 +81,24 @@ All work is joint with Andrew Hanlon and Oleg Lazarev.
 
 ---
 
+Jack Romo (University of Leeds) 
+
+Homotopy Bicategories of Complete 2-fold Segal Spaces
+
+Across the multitude of definitions for a higher category, a dividing line can be found between two major camps of model. On one side lives the ‘algebraic’ models where composition operations are given, like Bénabou’s bicategories, tricategories following Gurski and the models of Batanin and Leinster, Trimble and Penon. On the other end, one finds the ‘non-algebraic’ models, where a contractible space of possible composites is provided instead, including those of Tamsamani and Paoli, along with quasicategories, Segal n-categories, complete n-fold Segal spaces and more. The bridges between these models remain somewhat mysterious. Progress has been made in certain instances, as seen in the work of Tamsamani, Leinster, Lack and Paoli, Cottrell, Campbell, Nikolaus and others. Nonetheless, the correspondence remains incomplete; indeed, for instance, there is no fully verified means in the literature to take an `algebraic’ homotopy n-category of any known model of (\infty, n)-category for general n.
+
+In this talk, I will present my contribution to the problem of taking homotopy bicategories of non-algebraic (\infty, 2)-categories. The procedure I present of translating homotopies to coherence isomorphisms and '2-homotopies' to coherence conditions seems to have more general application, which I will discuss if time permits.
+
+---
+
+Note: Alongside with Tuesday talk, there is another talk on Wednesday at 2PM in LT15. Details below.
+
+Michael Tsironis (Vrije Universiteit Amsterdam)
+
+Skein relations for punctured surfaces
+
+Given a marked bordered surface S and a triangulation T, one can associate a Cluster algebra and a Jacobian algebra. In the classical setting where all the marked points lie on the boundary, snake graph calculus is a very helpful combinatorial tool, which was used by İlke Çanakçı and Ralf Schifler (2015) to give an alternative proof of the so-called skein relations, which are some identities in terms of cluster variables. Recently, Jon Wilson (2020) constructed a new type of snake graph, the so-called loop graph, which allows one to easily work in the setting, where we are also allowing marked points (puntures) in the interior of the surface S. In this talk, we will describe how one can associate a module in the Jacobian algebra, to every given loop graph, and how we can use this construction to prove skein relations in this broader setting.
+
+---
 
 [2023 Leeds Algebra Seminars](https://emine-yildirim.github.io/seminar.html)
