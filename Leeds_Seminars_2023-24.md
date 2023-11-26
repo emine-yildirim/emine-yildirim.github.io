@@ -20,7 +20,7 @@ Co-organised with my amazing colleague [[Francesca Fedele]](https://sites.google
 | November 14  | Jeffrey Hicks (University of Edinburgh)           | Resolutions from the perspective of symplectic geometry|
 | November 21  | Jack Romo (University of Leeds)                   | Homotopy Bicategories of Complete 2-fold Segal Spaces  |
 | November 22  | Michael Tsironis (Vrije Universiteit Amsterdam)   | Skein relations for punctured surfaces|
-| November 28  | Katherine Ormeño Bastias (Universidad de Talca)   |          |
+| November 28  | Katherine Ormeño Bastias (Universidad de Talca)   | Seminormal forms for the Temperley-Lieb algebra        |
 | December 5   | Michael Wibmer (University of Leeds)              |          |
 | December 12  | Sofia Franchini (Lancaster University)            |          |
 
@@ -98,6 +98,14 @@ Michael Tsironis (Vrije Universiteit Amsterdam)
 Skein relations for punctured surfaces
 
 Given a marked bordered surface S and a triangulation T, one can associate a Cluster algebra and a Jacobian algebra. In the classical setting where all the marked points lie on the boundary, snake graph calculus is a very helpful combinatorial tool, which was used by İlke Çanakçı and Ralf Schifler (2015) to give an alternative proof of the so-called skein relations, which are some identities in terms of cluster variables. Recently, Jon Wilson (2020) constructed a new type of snake graph, the so-called loop graph, which allows one to easily work in the setting, where we are also allowing marked points (puntures) in the interior of the surface S. In this talk, we will describe how one can associate a module in the Jacobian algebra, to every given loop graph, and how we can use this construction to prove skein relations in this broader setting.
+
+---
+
+Katherine Ormeño Bastias (Universidad de Talca) 
+
+Seminormal forms for the Temperley-Lieb algebra
+
+Over the last few years, Mathas introduced seminormal forms for a cellular algebra endowed with a family of Jucys-Murphy elements. The seminormal forms are orthogonal primitive idempotents and eigenvectors for the Jucys-Murphy elements under certain conditions. In this framework, there is a dichotomy: the separated case (semisimple) and the non-separated case (non-semisimple). Following this dichotomy, we study the cellular basis of the Temperley-Lieb algebra and construct the seminormal forms for Temperley-Lieb using the Jones-Wenzl idempotents and some combinatorial tools for the separated case. Additionally, we briefly explore what occurs in the non-separated case. This is joint work with my PhD supervisor, Steen Ryom-Hansen.
 
 ---
 
