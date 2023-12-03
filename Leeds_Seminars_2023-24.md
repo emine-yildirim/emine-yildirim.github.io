@@ -21,7 +21,7 @@ Co-organised with my amazing colleague [[Francesca Fedele]](https://sites.google
 | November 21  | Jack Romo (University of Leeds)                   | Homotopy Bicategories of Complete 2-fold Segal Spaces  |
 | November 22  | Michael Tsironis (Vrije Universiteit Amsterdam)   | Skein relations for punctured surfaces|
 | November 28  | Katherine Ormeño Bastias (Universidad de Talca)   | Seminormal forms for the Temperley-Lieb algebra        |
-| December 5   | Michael Wibmer (University of Leeds)              |          |
+| December 5   | Michael Wibmer (University of Leeds)              | Difference algebraic groups       |
 | December 12  | Sofia Franchini (Lancaster University)            |          |
 
 ---
@@ -106,6 +106,14 @@ Katherine Ormeño Bastias (Universidad de Talca)
 Seminormal forms for the Temperley-Lieb algebra
 
 Over the last few years, Mathas introduced seminormal forms for a cellular algebra endowed with a family of Jucys-Murphy elements. The seminormal forms are orthogonal primitive idempotents and eigenvectors for the Jucys-Murphy elements under certain conditions. In this framework, there is a dichotomy: the separated case (semisimple) and the non-separated case (non-semisimple). Following this dichotomy, we study the cellular basis of the Temperley-Lieb algebra and construct the seminormal forms for Temperley-Lieb using the Jones-Wenzl idempotents and some combinatorial tools for the separated case. Additionally, we briefly explore what occurs in the non-separated case. This is joint work with my PhD supervisor, Steen Ryom-Hansen.
+
+---
+
+Michael Wibmer (University of Leeds)
+
+Difference algebraic groups
+
+Difference algebraic groups are a generalization of algebraic groups. Instead of just algebraic equations, one allows difference algebraic equations as the defining equations. These groups naturally occur as Galois groups in certain Galois theories and they have a rich structure theory, loosely similar to the structure theory of algebraic groups. This talk is an introduction to difference algebraic groups.
 
 ---
 
