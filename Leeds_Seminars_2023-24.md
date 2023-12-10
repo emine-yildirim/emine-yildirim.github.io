@@ -22,7 +22,7 @@ Co-organised with my amazing colleague [[Francesca Fedele]](https://sites.google
 | November 22  | Michael Tsironis (Vrije Universiteit Amsterdam)   | Skein relations for punctured surfaces|
 | November 28  | Katherine Ormeño Bastias (Universidad de Talca)   | Seminormal forms for the Temperley-Lieb algebra        |
 | December 5   | Michael Wibmer (University of Leeds)              | Difference algebraic groups       |
-| December 12  | Sofia Franchini (Lancaster University)            |          |
+| December 12  | Sofia Franchini (Lancaster University)            | Torsion pairs in the completions of Igusa-Todorov discrete cluster categories |
 
 ---
 
@@ -114,6 +114,14 @@ Michael Wibmer (University of Leeds)
 Difference algebraic groups
 
 Difference algebraic groups are a generalization of algebraic groups. Instead of just algebraic equations, one allows difference algebraic equations as the defining equations. These groups naturally occur as Galois groups in certain Galois theories and they have a rich structure theory, loosely similar to the structure theory of algebraic groups. This talk is an introduction to difference algebraic groups.
+
+---
+
+Sofia Franchini (Lancaster University) 
+
+Torsion pairs in the completions of Igusa-Todorov discrete cluster categories
+
+Given an infinity-gon having a finite number of two-sided accumulation points, Igusa and Todorov defined a discrete cluster category of type A-infinity. The completion of this category was defined by Paquette and Yıldırım. Both categories are triangulated, have cluster-tilting subcategories, and have nice geometric models: their indecomposable objects can be regarded as arcs, or limits of arcs, of the infinity-gon. These geometric models allow to classify some important classes of subcategories using arc combinatorics. In this talk we will introduce the Igusa-Todorov discrete cluster category and the Paquette Yıldırım completion, and we will discuss the classification of the torsion pairs, t-structures, and co-t-structures in the completion.
 
 ---
 
