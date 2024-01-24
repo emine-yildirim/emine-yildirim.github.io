@@ -23,7 +23,6 @@ Co-organised with my amazing colleague [[Francesca Fedele]](https://sites.google
 | November 28  | Katherine Ormeño Bastias (Universidad de Talca)   | Seminormal forms for the Temperley-Lieb algebra        |
 | December 5   | Michael Wibmer (University of Leeds)              | Difference algebraic groups       |
 | December 12  | Sofia Franchini (Lancaster University)            | Torsion pairs in the completions of Igusa-Todorov discrete cluster categories |
-| January 31   | Nicholas Williams (Lancaster University)              |          |
 | February 6   | Nivedita Viswanathan (Brunel University London)       |          |
 | February 13  | Federico Campanini (Université catholique de Louvain) |          |
 
