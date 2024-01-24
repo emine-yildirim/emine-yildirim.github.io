@@ -12,11 +12,9 @@ Co-organised with my amazing colleague [Francesca Fedele](https://sites.google.c
 | Date         | Speaker                                           | Title    |
 | -------------| --------------------------------------------------| -------------------------------------------------- |
 | October 3    | Farrokh Atai (University of Leeds)                | Vertex operator algebra and super-Jack polynomials |
-| October 10   |  no seminar                                       |          |
 | October 17   | Alison Parker (University of Leeds)               | Some representation theory of Kadar-Martin-Yu algebras |
 | October 24   | Bradley Ryan (University of Leeds)                | Double Affine Hecke Algebras and Character Varieties   |
 | October 31   | Sam Hannah (Cardiff University)                   | Classifying Frobenius Algebras in Dijkgraaf-Witten Categories|
-| November 7   |   no seminar                                      |          |
 | November 14  | Jeffrey Hicks (University of Edinburgh)           | Resolutions from the perspective of symplectic geometry|
 | November 21  | Jack Romo (University of Leeds)                   | Homotopy Bicategories of Complete 2-fold Segal Spaces  |
 | November 22  | Michael Tsironis (Vrije Universiteit Amsterdam)   | Skein relations for punctured surfaces|
