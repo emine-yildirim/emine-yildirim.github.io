@@ -7,7 +7,7 @@
 # The University of Leeds Algebra Seminar 2023/24  
 ## Tuesdays 15:00 in MALL
 
-Co-organised with my amazing colleague [[Francesca Fedele]](https://sites.google.com/view/francescafedele/home).
+Co-organised with my amazing colleague [Francesca Fedele](https://sites.google.com/view/francescafedele/home).
 
 | Date         | Speaker                                           | Title    |
 | -------------| --------------------------------------------------| -------------------------------------------------- |
