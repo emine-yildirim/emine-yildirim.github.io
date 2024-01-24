@@ -32,38 +32,47 @@ Co-organised with my amazing colleague [[Francesca Fedele]](https://sites.google
 
 ---
 
-Farrokh Atai (University of Leeds)
+Sofia Franchini (Lancaster University) 
 
-Vertex operator algebra and super-Jack polynomials
+Torsion pairs in the completions of Igusa-Todorov discrete cluster categories
 
- The fruitful interplay between representation theory and the theory of special functions has led to many interesting discoveries in mathematical physics. Moreover, it is known that representations of certain infinite dimensional algebras can be used to give a mathematical formulation of some quantum field theories.
-
-In this talk, I will recall how highest weight representations of certain affine Kac-Moody algebras are given by field operators and symmetric functions. Using the field operators, we can construct vertex operator with interesting applications in mathematical physics. By considering a one-parameter extension of these vertex operators, we also find that they are closely related to the integrable Calogero-Moser-Sutherland models. In particular, we find that there is a one-to-one correspondence between the space spanned by these vertex operators and the so-called super-Jack polynomials. If time permits, I will also discuss how this approach can be used to construct a Laurent polynomial generalization of the super-Jack polynomials.
- 
- ---
-
-Alison Parker (University of Leeds)
-
-Some representation theory of Kadar-Martin-Yu algebras
-
-Kadar-Martin-Yu introduced a new chain of subalgebras of the Brauer algebra. These algebras start with Temperley-Lieb and end with the Brauer algebra and build in representation theoretic intensity. This gives a new tool to tackle the long standing problem of understanding the representation theory of the Brauer algebra. We present an introduction to these new algebras and some results about their representation theory. This is joint work with my PhD student N. M. Alraddadi.
+Given an infinity-gon having a finite number of two-sided accumulation points, Igusa and Todorov defined a discrete cluster category of type A-infinity. The completion of this category was defined by Paquette and Yıldırım. Both categories are triangulated, have cluster-tilting subcategories, and have nice geometric models: their indecomposable objects can be regarded as arcs, or limits of arcs, of the infinity-gon. These geometric models allow to classify some important classes of subcategories using arc combinatorics. In this talk we will introduce the Igusa-Todorov discrete cluster category and the Paquette Yıldırım completion, and we will discuss the classification of the torsion pairs, t-structures, and co-t-structures in the completion.
 
 ---
 
-Bradley Ryan (University of Leeds)
+Michael Wibmer (University of Leeds)
 
-Double Affine Hecke Algebras and Character Varieties
+Difference algebraic groups
 
-The double affine Hecke algebra (DAHA) was introduced by Ivan Cherednik in order to prove Macdonald's conjectures. Developments from Noumi, Sahi and Stokman extended Cherednik's definition to produce a DAHA with connections to Koornwinder polynomials. It has been conjectured that the centre of this DAHA at the "classical level" is isomorphic to the algebra of functions on a particular character variety. In this talk, we introduce this DAHA and motivate a proof of this conjecture. This is based on joint work-in-progress with my PhD supervisor Oleg Chalykh.
+Difference algebraic groups are a generalization of algebraic groups. Instead of just algebraic equations, one allows difference algebraic equations as the defining equations. These groups naturally occur as Galois groups in certain Galois theories and they have a rich structure theory, loosely similar to the structure theory of algebraic groups. This talk is an introduction to difference algebraic groups.
 
 ---
 
-Sam Hannah (Cardiff University)
+Katherine Ormeño Bastias (Universidad de Talca) 
 
-Classifying Frobenius Algebras in Dijkgraaf-Witten Categories
+Seminormal forms for the Temperley-Lieb algebra
 
-Algebra objects are interesting objects in category theory, with particular uses in classifying modules over tensor categories. Detecting and classifying algebra objects provides an important goal in understanding the representation theory of such categories.
-Dijkgraaf-Witten categories are an example of tensor categories associated to a finite group G and a 3-cocycle on G. During this talk, I will present a classification of Frobenius algebras in these categories, generalising existing results by Davydov-Simmons to a field of arbitrary characteristic. This is done by means of a Frobenius Monoidal Functor. Joint work with Ana Ros Camacho (Cardiff) and Robert Laugwitz (Nottingham).
+Over the last few years, Mathas introduced seminormal forms for a cellular algebra endowed with a family of Jucys-Murphy elements. The seminormal forms are orthogonal primitive idempotents and eigenvectors for the Jucys-Murphy elements under certain conditions. In this framework, there is a dichotomy: the separated case (semisimple) and the non-separated case (non-semisimple). Following this dichotomy, we study the cellular basis of the Temperley-Lieb algebra and construct the seminormal forms for Temperley-Lieb using the Jones-Wenzl idempotents and some combinatorial tools for the separated case. Additionally, we briefly explore what occurs in the non-separated case. This is joint work with my PhD supervisor, Steen Ryom-Hansen.
+
+---
+
+Note: Alongside with Tuesday talk, there is another talk on Wednesday at 2PM in LT15. Details below.
+
+Michael Tsironis (Vrije Universiteit Amsterdam)
+
+Skein relations for punctured surfaces
+
+Given a marked bordered surface S and a triangulation T, one can associate a Cluster algebra and a Jacobian algebra. In the classical setting where all the marked points lie on the boundary, snake graph calculus is a very helpful combinatorial tool, which was used by İlke Çanakçı and Ralf Schifler (2015) to give an alternative proof of the so-called skein relations, which are some identities in terms of cluster variables. Recently, Jon Wilson (2020) constructed a new type of snake graph, the so-called loop graph, which allows one to easily work in the setting, where we are also allowing marked points (puntures) in the interior of the surface S. In this talk, we will describe how one can associate a module in the Jacobian algebra, to every given loop graph, and how we can use this construction to prove skein relations in this broader setting.
+
+---
+
+Jack Romo (University of Leeds) 
+
+Homotopy Bicategories of Complete 2-fold Segal Spaces
+
+Across the multitude of definitions for a higher category, a dividing line can be found between two major camps of model. On one side lives the ‘algebraic’ models where composition operations are given, like Bénabou’s bicategories, tricategories following Gurski and the models of Batanin and Leinster, Trimble and Penon. On the other end, one finds the ‘non-algebraic’ models, where a contractible space of possible composites is provided instead, including those of Tamsamani and Paoli, along with quasicategories, Segal n-categories, complete n-fold Segal spaces and more. The bridges between these models remain somewhat mysterious. Progress has been made in certain instances, as seen in the work of Tamsamani, Leinster, Lack and Paoli, Cottrell, Campbell, Nikolaus and others. Nonetheless, the correspondence remains incomplete; indeed, for instance, there is no fully verified means in the literature to take an `algebraic’ homotopy n-category of any known model of (\infty, n)-category for general n.
+
+In this talk, I will present my contribution to the problem of taking homotopy bicategories of non-algebraic (\infty, 2)-categories. The procedure I present of translating homotopies to coherence isomorphisms and '2-homotopies' to coherence conditions seems to have more general application, which I will discuss if time permits.
 
 ---
 
@@ -79,48 +88,40 @@ All work is joint with Andrew Hanlon and Oleg Lazarev.
 
 ---
 
-Jack Romo (University of Leeds) 
+Sam Hannah (Cardiff University)
 
-Homotopy Bicategories of Complete 2-fold Segal Spaces
+Classifying Frobenius Algebras in Dijkgraaf-Witten Categories
 
-Across the multitude of definitions for a higher category, a dividing line can be found between two major camps of model. On one side lives the ‘algebraic’ models where composition operations are given, like Bénabou’s bicategories, tricategories following Gurski and the models of Batanin and Leinster, Trimble and Penon. On the other end, one finds the ‘non-algebraic’ models, where a contractible space of possible composites is provided instead, including those of Tamsamani and Paoli, along with quasicategories, Segal n-categories, complete n-fold Segal spaces and more. The bridges between these models remain somewhat mysterious. Progress has been made in certain instances, as seen in the work of Tamsamani, Leinster, Lack and Paoli, Cottrell, Campbell, Nikolaus and others. Nonetheless, the correspondence remains incomplete; indeed, for instance, there is no fully verified means in the literature to take an `algebraic’ homotopy n-category of any known model of (\infty, n)-category for general n.
-
-In this talk, I will present my contribution to the problem of taking homotopy bicategories of non-algebraic (\infty, 2)-categories. The procedure I present of translating homotopies to coherence isomorphisms and '2-homotopies' to coherence conditions seems to have more general application, which I will discuss if time permits.
-
----
-
-Note: Alongside with Tuesday talk, there is another talk on Wednesday at 2PM in LT15. Details below.
-
-Michael Tsironis (Vrije Universiteit Amsterdam)
-
-Skein relations for punctured surfaces
-
-Given a marked bordered surface S and a triangulation T, one can associate a Cluster algebra and a Jacobian algebra. In the classical setting where all the marked points lie on the boundary, snake graph calculus is a very helpful combinatorial tool, which was used by İlke Çanakçı and Ralf Schifler (2015) to give an alternative proof of the so-called skein relations, which are some identities in terms of cluster variables. Recently, Jon Wilson (2020) constructed a new type of snake graph, the so-called loop graph, which allows one to easily work in the setting, where we are also allowing marked points (puntures) in the interior of the surface S. In this talk, we will describe how one can associate a module in the Jacobian algebra, to every given loop graph, and how we can use this construction to prove skein relations in this broader setting.
+Algebra objects are interesting objects in category theory, with particular uses in classifying modules over tensor categories. Detecting and classifying algebra objects provides an important goal in understanding the representation theory of such categories.
+Dijkgraaf-Witten categories are an example of tensor categories associated to a finite group G and a 3-cocycle on G. During this talk, I will present a classification of Frobenius algebras in these categories, generalising existing results by Davydov-Simmons to a field of arbitrary characteristic. This is done by means of a Frobenius Monoidal Functor. Joint work with Ana Ros Camacho (Cardiff) and Robert Laugwitz (Nottingham).
 
 ---
 
-Katherine Ormeño Bastias (Universidad de Talca) 
+Bradley Ryan (University of Leeds)
 
-Seminormal forms for the Temperley-Lieb algebra
+Double Affine Hecke Algebras and Character Varieties
 
-Over the last few years, Mathas introduced seminormal forms for a cellular algebra endowed with a family of Jucys-Murphy elements. The seminormal forms are orthogonal primitive idempotents and eigenvectors for the Jucys-Murphy elements under certain conditions. In this framework, there is a dichotomy: the separated case (semisimple) and the non-separated case (non-semisimple). Following this dichotomy, we study the cellular basis of the Temperley-Lieb algebra and construct the seminormal forms for Temperley-Lieb using the Jones-Wenzl idempotents and some combinatorial tools for the separated case. Additionally, we briefly explore what occurs in the non-separated case. This is joint work with my PhD supervisor, Steen Ryom-Hansen.
-
----
-
-Michael Wibmer (University of Leeds)
-
-Difference algebraic groups
-
-Difference algebraic groups are a generalization of algebraic groups. Instead of just algebraic equations, one allows difference algebraic equations as the defining equations. These groups naturally occur as Galois groups in certain Galois theories and they have a rich structure theory, loosely similar to the structure theory of algebraic groups. This talk is an introduction to difference algebraic groups.
+The double affine Hecke algebra (DAHA) was introduced by Ivan Cherednik in order to prove Macdonald's conjectures. Developments from Noumi, Sahi and Stokman extended Cherednik's definition to produce a DAHA with connections to Koornwinder polynomials. It has been conjectured that the centre of this DAHA at the "classical level" is isomorphic to the algebra of functions on a particular character variety. In this talk, we introduce this DAHA and motivate a proof of this conjecture. This is based on joint work-in-progress with my PhD supervisor Oleg Chalykh.
 
 ---
 
-Sofia Franchini (Lancaster University) 
+Alison Parker (University of Leeds)
 
-Torsion pairs in the completions of Igusa-Todorov discrete cluster categories
+Some representation theory of Kadar-Martin-Yu algebras
 
-Given an infinity-gon having a finite number of two-sided accumulation points, Igusa and Todorov defined a discrete cluster category of type A-infinity. The completion of this category was defined by Paquette and Yıldırım. Both categories are triangulated, have cluster-tilting subcategories, and have nice geometric models: their indecomposable objects can be regarded as arcs, or limits of arcs, of the infinity-gon. These geometric models allow to classify some important classes of subcategories using arc combinatorics. In this talk we will introduce the Igusa-Todorov discrete cluster category and the Paquette Yıldırım completion, and we will discuss the classification of the torsion pairs, t-structures, and co-t-structures in the completion.
+Kadar-Martin-Yu introduced a new chain of subalgebras of the Brauer algebra. These algebras start with Temperley-Lieb and end with the Brauer algebra and build in representation theoretic intensity. This gives a new tool to tackle the long standing problem of understanding the representation theory of the Brauer algebra. We present an introduction to these new algebras and some results about their representation theory. This is joint work with my PhD student N. M. Alraddadi.
 
 ---
+
+Farrokh Atai (University of Leeds)
+
+Vertex operator algebra and super-Jack polynomials
+
+ The fruitful interplay between representation theory and the theory of special functions has led to many interesting discoveries in mathematical physics. Moreover, it is known that representations of certain infinite dimensional algebras can be used to give a mathematical formulation of some quantum field theories.
+
+In this talk, I will recall how highest weight representations of certain affine Kac-Moody algebras are given by field operators and symmetric functions. Using the field operators, we can construct vertex operator with interesting applications in mathematical physics. By considering a one-parameter extension of these vertex operators, we also find that they are closely related to the integrable Calogero-Moser-Sutherland models. In particular, we find that there is a one-to-one correspondence between the space spanned by these vertex operators and the so-called super-Jack polynomials. If time permits, I will also discuss how this approach can be used to construct a Laurent polynomial generalization of the super-Jack polynomials.
+ 
+ ---
+
 
 [2023 Leeds Algebra Seminars](https://emine-yildirim.github.io/seminar.html)
