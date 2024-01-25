@@ -22,12 +22,33 @@ Co-organised with my amazing colleague [Francesca Fedele](https://sites.google.c
 | December 5   | Michael Wibmer (University of Leeds)              | Difference algebraic groups       |
 | December 12  | Sofia Franchini (Lancaster University)            | Torsion pairs in the completions of Igusa-Todorov discrete cluster categories |
 | February 6   | Nivedita Viswanathan (Brunel University London)       |          |
-| February 13  | Federico Campanini (Université catholique de Louvain) |          |
+| February 13  | Federico Campanini (Université catholique de Louvain) | An overview on pretorsion theories |
 | February 27  | Gordana Todorov (Northeastern University)             |          |
 
 
 
 ### Abstracts:
+
+---
+
+Federico Campanini (Université catholique de Louvain)
+
+An overview on pretorsion theories
+
+Pretorsion theories are defined as "non-pointed torsion theories", where the zero object and the zero morphisms are replaced by a class of "trivial" objects and a suitable ideal of morphisms respectively. Thus, the notion of pretorsion theory can be defined in any arbitrary category C, starting from a pair (T ,F) of full replete subcategories of C where T and F consist of the classes of "torsion" and "torsion-free" objects, and whose intersection defines the class of "trivial objects".
+
+In this talk, we shall first present some key background on torsion and pretorsion theories, describing some examples in the category of topological spaces, (internal) preorders, and in Cat, the category of small categories. We then show two ways of obtaining pretorsion theories starting from torsion theories, so that many new examples of pretorsion theories can be given in pointed categories. Lattices and chains of torsion theories are widely studied topics and they are the perfect framework for applying our result. Then, we shall show how to obtain pretorsion theories "extending" a torsion theory with a Serre subcategory. We shall discuss some applications in representation theory and in the framework of recollements of abelian categories.
+
+Based on joint works with F. Borceux, M. Gran, W. Tholen [1, 2] and F. Fedele [3].
+
+[1] F. Borceux, F. Campanini and M. Gran, Pretorsion theories in lextensive categories, to appear on Israel J. Math (2023). https://arxiv.org/abs/2205.11054
+
+[2] F. Borceux, F. Campanini, M. Gran and W. Tholen, Groupoids and skeletal categories form a pretorsion theory in Cat, accepted on Adv. Math (2023). https://arxiv.org/abs/2207.08487
+
+[3] F. Campanini, F. Fedele, Building pretorsion theories from torsion theories, preprint. https://arxiv.org/abs/2310.00316
+
+[4] A. Facchini, C.A. Finocchiaro and M. Gran, Pretorsion theories in general categories, J. Pure Appl. Algebra 225 (2) (2021) 106503.
+
 
 ---
 
