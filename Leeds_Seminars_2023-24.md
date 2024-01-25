@@ -23,6 +23,7 @@ Co-organised with my amazing colleague [Francesca Fedele](https://sites.google.c
 | December 12  | Sofia Franchini (Lancaster University)            | Torsion pairs in the completions of Igusa-Todorov discrete cluster categories |
 | February 6   | Nivedita Viswanathan (Brunel University London)       |          |
 | February 13  | Federico Campanini (Université catholique de Louvain) |          |
+| February 27  | Gordana Todorov (Northeastern University)             |          |
 
 
 
