@@ -8,3 +8,5 @@ Course Description in the University's module catalogue is [here](https://webpro
 [Lecture notes](Documents/Eleonore_Faber_Commutative_Rings.pdf) by [Eleonore Faber](http://www1.maths.leeds.ac.uk/~pmtemf/).
 
 Exercise Sheets will be uploded below, or check the [Minerva page](https://minerva.leeds.ac.uk/ultra/courses/_552205_1/outline) for this course.
+
+> [Exercise Sheet 1](Documents/ex1.pdf) due February 12.
