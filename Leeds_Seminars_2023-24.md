@@ -21,7 +21,7 @@ Co-organised with my amazing colleague [Francesca Fedele](https://sites.google.c
 | November 28  | Katherine Ormeño Bastias (Universidad de Talca)   | Seminormal forms for the Temperley-Lieb algebra        |
 | December 5   | Michael Wibmer (University of Leeds)              | Difference algebraic groups       |
 | December 12  | Sofia Franchini (Lancaster University)            | Torsion pairs in the completions of Igusa-Todorov discrete cluster categories |
-| February 6   | Nivedita Viswanathan (Brunel University London)       |          |
+| February 6   | Nivedita Viswanathan (Brunel University London)       | Higher Fano Manifolds |
 | February 13  | Federico Campanini (Université catholique de Louvain) | An overview on pretorsion theories |
 | February 20  | Aslak Bakke Buan (Norwegian University of Science and Technology) | |
 | February 27  | Gordana Todorov (Northeastern University)             |          |
@@ -50,6 +50,14 @@ Based on joint works with F. Borceux, M. Gran, W. Tholen [1, 2] and F. Fedele [3
 
 [4] A. Facchini, C.A. Finocchiaro and M. Gran, Pretorsion theories in general categories, J. Pure Appl. Algebra 225 (2) (2021) 106503.
 
+
+---
+
+Nivedita Viswanathan (Brunel University London) 
+
+Higher Fano Manifolds
+
+Fano manifolds are smooth varieties that have a positive first Chern class, c_1(T_X). This positivity condition on Fano manifolds has geometric implications such as them being covered by rational curves and in fact being rationally connected. In a quest to explore higher dimensional analogues of such geometric properties of objects in hand, we study Fano manifolds further by imposing stronger positivity restrictions on them, that is by assuming positivity of higher Chern characters. These are called Higher Fano Manifolds. While examples of such higher Fano manifolds have been described in recent literature, very few generalized results exist. In this talk, I will explain a combinatorial strategy that we use in our work to prove that projective spaces are the only higher Fano manifolds among toric projective manifolds. This is joint work with Carolina Araujo, Roya Beheshti, Ana-Maria Castravet, Kelly Jabbusch, Enrica Mazzon and Svetlana Makarova.
 
 ---
 
