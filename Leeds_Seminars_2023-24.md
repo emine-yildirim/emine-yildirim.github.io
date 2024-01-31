@@ -25,6 +25,7 @@ Co-organised with my amazing colleague [Francesca Fedele](https://sites.google.c
 | February 13  | Federico Campanini (Université catholique de Louvain) | An overview on pretorsion theories |
 | February 20  | Aslak Bakke Buan (Norwegian University of Science and Technology) | |
 | February 27  | Gordana Todorov (Northeastern University)             |          |
+| March 5      | Anders Sten Kortegård (Aarhus University)             |          |
 | April 23     | Patrick Kinnear (University of Edinburgh)             |          |
 | April 30     | Nicholas Williams (Lancaster University)              |          |
 
