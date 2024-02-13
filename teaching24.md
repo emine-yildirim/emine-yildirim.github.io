@@ -9,4 +9,5 @@ Course Description in the University's module catalogue is [here](https://webpro
 
 Exercise Sheets will be uploded below, or check the [Minerva page](https://minerva.leeds.ac.uk/ultra/courses/_552205_1/outline) for this course.
 
-> [Exercise Sheet 1](Documents/ex1.pdf) due February 12.
+> [Exercise Sheet 1](Documents/ex1.pdf) due February 12. [Solutions](Documents/sol1.pdf)
+> [Exercise Sheet 2](Documents/ex2.pdf) due February 26.
