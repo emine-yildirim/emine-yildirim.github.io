@@ -23,7 +23,7 @@ Co-organised with my amazing colleague [Francesca Fedele](https://sites.google.c
 | December 12  | Sofia Franchini (Lancaster University)            | Torsion pairs in the completions of Igusa-Todorov discrete cluster categories |
 | February 6   | Nivedita Viswanathan (Brunel University London)       | Higher Fano Manifolds |
 | February 13  | Federico Campanini (Université catholique de Louvain) | An overview on pretorsion theories |
-| February 20  | Aslak Bakke Buan (Norwegian University of Science and Technology) | |
+| February 20  | Aslak Bakke Buan (Norwegian University of Science and Technology) | Mutation of tau-exceptional sequences |
 | February 27  | Gordana Todorov (Northeastern University)             |          |
 | March 5      | Anders Sten Kortegård (Aarhus University)             |          |
 | April 23     | Patrick Kinnear (University of Edinburgh)             |          |
@@ -31,6 +31,18 @@ Co-organised with my amazing colleague [Francesca Fedele](https://sites.google.c
 
 
 ### Abstracts:
+
+---
+
+Aslak Bakke Buan (Norwegian University of Science and Technology) 
+
+Mutation of tau-exceptional sequences.
+ 
+We first recall classical notions of exceptional sequences and their mutations for module categories of hereditary algebras (e.g. quiver algebras). Next, we discuss a generalization to all finite dimensional algebras, motivated by tau-tilting theory, by Adachi-Iyama-Reiten; by Jasso's reduction techniques for such modules and corresponding torsion pairs; and by the introduction of signed exceptional sequences by Igusa-Todorov.
+
+The interplay between theories for tau-tilting modules, torsion pairs and wide subcategories is central for our discussions. 
+
+This is based on joint work with Eric J. Hanson and Bethany R. Marsh
 
 ---
 
