@@ -26,6 +26,7 @@ Co-organised with my amazing colleague [Francesca Fedele](https://sites.google.c
 | February 20  | Aslak Bakke Buan (Norwegian University of Science and Technology) | Mutation of tau-exceptional sequences |
 | February 27  | Gordana Todorov (Northeastern University)             |          |
 | March 5      | Anders Sten Kortegård (Aarhus University)             |          |
+| March 19 (2PM)| David Terrence Nkansah (Aarhus University)           |          |
 | April 23     | Patrick Kinnear (University of Edinburgh)             |          |
 | April 30     | Nicholas Williams (Lancaster University)              |          |
 
