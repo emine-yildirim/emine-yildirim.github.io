@@ -24,7 +24,7 @@ Co-organised with my amazing colleague [Francesca Fedele](https://sites.google.c
 | February 6   | Nivedita Viswanathan (Brunel University London)       | Higher Fano Manifolds |
 | February 13  | Federico Campanini (Université catholique de Louvain) | An overview on pretorsion theories |
 | February 20  | Aslak Bakke Buan (Norwegian University of Science and Technology) | Mutation of tau-exceptional sequences |
-| February 27  | Gordana Todorov (Northeastern University)             |          |
+| February 27  | Gordana Todorov (Northeastern University)             | Dynkin diagrams and higher: Auslander algebras, Cluster Tilting objects and Preprojective Algebras |
 | March 5      | Anders Sten Kortegård (Aarhus University)             |          |
 | March 19 (at 2PM)| David Terrence Nkansah (Aarhus University)        |          |
 | April 23     | Patrick Kinnear (University of Edinburgh)             |          |
@@ -32,6 +32,16 @@ Co-organised with my amazing colleague [Francesca Fedele](https://sites.google.c
 
 
 ### Abstracts:
+
+---
+
+Gordana Todorov (Northeastern University) 
+
+Dynkin diagrams and higher: Auslander algebras, Cluster Tilting objects and Preprojective Algebras
+
+A well-known theorem of Maurice Auslander about artin algebras describes the correspondence between {algebras A of finite representation type} and {algebras B, with gl.dim.B ≤ 2 ≤ dom.dim.B}, (now called Auslander algebras).
+
+Higher Auslander algebras were introduced by Osamu Iyama. This talk will be about families of higher Auslander algebras and related notions of higher Cluster Tilting Objects and also higher Preprojective algebras, all constructed from the fundamental domains of cluster categories of Dynkin quivers.
 
 ---
 
