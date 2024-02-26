@@ -13,4 +13,6 @@ Exercise Sheets will be uploded below, or check the [Minerva page](https://miner
 
 > [Exercise Sheet 1](Documents/ex1.pdf) due February 12. [Solutions](Documents/sol1.pdf)
 > 
-> [Exercise Sheet 2](Documents/ex2.pdf) due February 26.
+> [Exercise Sheet 2](Documents/ex2.pdf) due February 26. [Solutions](Documents/sol2.pdf)
+>
+> [Exercise Sheet 3](Documents/ex3.pdf) due March 11.
