@@ -25,13 +25,21 @@ Co-organised with my amazing colleague [Francesca Fedele](https://sites.google.c
 | February 13  | Federico Campanini (Université catholique de Louvain) | An overview on pretorsion theories |
 | February 20  | Aslak Bakke Buan (Norwegian University of Science and Technology) | Mutation of tau-exceptional sequences |
 | February 27  | Gordana Todorov (Northeastern University)             | Dynkin diagrams and higher: Auslander algebras, Cluster Tilting objects and Preprojective Algebras |
-| March 5      | Anders Sten Kortegård (Aarhus University)             |          |
+| March 5      | Anders Sten Kortegård (Aarhus University)             | Derived equivalences of self-injective 2-Calabi—Yau titled algebras |
 | March 19 (at 2PM)| David Terrence Nkansah (Aarhus University)        |          |
 | April 23     | Patrick Kinnear (University of Edinburgh)             |          |
 | April 30     | Nicholas Williams (Lancaster University)              |          |
 
 
 ### Abstracts:
+
+---
+
+Anders Sten Kortegård (Aarhus University) 
+
+Derived equivalences of self-injective 2-Calabi—Yau titled algebras
+
+A Frobenius category is a kind of exact category to which we can associate a triangulated category, called the stable category. We will consider a k-linear Frobenius category E, with a “nice” associated stable category C. Given two “good maximal rigid” objects in E their endomorphism algebras are always derived equivalent. In this talk, we look at the corresponding endomorphism algebras in the stable category C, and give a criterion for when these will become derived equivalent. We will then give an example of how we can produce such derived equivalent endomorphism algebras using Postnikov diagrams.
 
 ---
 
