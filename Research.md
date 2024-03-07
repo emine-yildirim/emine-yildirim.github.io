@@ -13,8 +13,11 @@ I am interested in representation theory of algebras, cluster algebras, their ca
 
 
 1. [[arXiv]](https://arxiv.org/pdf/2402.14501.pdf) I. Le and E. Yıldırım, *Cluster Categorification of Rank 2 Webs*, arXiv:2402.14501.
+
 2. [[arXiv]](https://arxiv.org/pdf/2401.08285.pdf) A. Felikson, P. Tumarkin  and E. Yıldırım, *Polytopal realizations of non-crystallographic associahedra*, arXiv:2401.08285.
+
 3. [[arXiv]](https://arxiv.org/pdf/2211.08011.pdf) E. Kantarcı Oğuz and E. Yıldırım, *Cluster Expansions: T-walks, Labeled Posets and Matrix Calculations*, arXiv:2211.08011.
+
 4.  [[arXiv]](https://arxiv.org/pdf/2201.04446.pdf) R. Marczinzik, H. Thomas, and E. Yıldırım, *On the interaction of the Coxeter transformation and the Rowmotion bijection*, arXiv:2201.04446.
 
 5. [[published]](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/tlm3.12025)  C. Paquette and E. Yıldırım, *Completions Of Discrete Cluster Categories Of Type A*, Transactions of the London Mathematical Society (2021), 8(1), 35–64. https://doi.org/10.1112/tlm3.12025
