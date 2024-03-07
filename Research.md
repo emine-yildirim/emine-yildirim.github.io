@@ -24,7 +24,7 @@ I am interested in representation theory of algebras, cluster algebras, their ca
 
 6. [[published]](https://academic.oup.com/imrn/advance-article/doi/10.1093/imrn/rnaa110/5850126?login=true) V. Bazier-Matte, G. Douville, A. Garver, R. Patrias, H. Thomas, and E. Yıldırım, *Leading Terms of SL_3 Web Invariants*, International Mathematics Research Notices, (2020), rnaa110. https://doi.org/10.1093/imrn/rnaa110
 
-7. [[published]](https://arxiv.org/abs/1808.09986](https://londmathsoc.onlinelibrary.wiley.com/doi/full/10.1112/jlms.12817)  V. Bazier-Matte, N. Chapelier-Laget, G. Douville, K. Mousavand, H. Thomas, and E. Yıldırım, *ABHY Associahedra and Newton Polytopes of F-polynomials for finite type cluster algebras*. Journal of the London Mathematical Society (2) (2024), 109 (1), Paper No. e12817, 27. https://doi.org/10.1112/jlms.12817
+7. [[published]](https://londmathsoc.onlinelibrary.wiley.com/doi/full/10.1112/jlms.12817)  V. Bazier-Matte, N. Chapelier-Laget, G. Douville, K. Mousavand, H. Thomas, and E. Yıldırım, *ABHY Associahedra and Newton Polytopes of F-polynomials for finite type cluster algebras*. Journal of the London Mathematical Society (2) (2024), 109 (1), Paper No. e12817, 27. https://doi.org/10.1112/jlms.12817
 
 8. [[published]](https://link.springer.com/article/10.1007/s10468-018-9795-3)  E. Yıldırım, *The Coxeter Transformation on Cominuscule Posets*. Algebra and Representation Theory, Vol. 22 (2019), No. 3, pp. 699-722. https://doi.org/10.1007/s10468-018-9795-3
 
