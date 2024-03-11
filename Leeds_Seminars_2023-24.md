@@ -26,13 +26,21 @@ Co-organised with my amazing colleague [Francesca Fedele](https://sites.google.c
 | February 20  | Aslak Bakke Buan (Norwegian University of Science and Technology) | Mutation of tau-exceptional sequences |
 | February 27  | Gordana Todorov (Northeastern University)             | Dynkin diagrams and higher: Auslander algebras, Cluster Tilting objects and Preprojective Algebras |
 | March 5      | Anders Sten Kortegård (Aarhus University)             | Derived equivalences of self-injective 2-Calabi—Yau titled algebras |
-| March 12     | Amit Hazi (University of Leeds)                       | |
+| March 12     | Amit Hazi (University of Leeds)                       | Existence and rotatability of the two-colored Jones–Wenzl projector|
 | March 19 (at 2PM)| David Terrence Nkansah (Aarhus University)        |          |
 | April 23     | Patrick Kinnear (University of Edinburgh)             |          |
 | April 30     | Nicholas Williams (Lancaster University)              |          |
 
 
 ### Abstracts:
+
+---
+
+Amit Hazi (University of Leeds)  
+
+Existence and rotatability of the two-colored Jones–Wenzl projector
+
+The two-colored Temperley-Lieb algebra is a generalization of the Temperley-Lieb algebra. The analogous two-colored Jones-Wenzl projector plays an important role in the Elias-Williamson construction of the diagrammatic Hecke category. In this talk, I will give conditions for the existence and rotatability of the two-colored Jones-Wenzl projector in terms of the invertibility and vanishing of certain two-colored quantum binomial coefficients. As a consequence, we prove that Abe’s category of Soergel bimodules is equivalent to the diagrammatic Hecke category in complete generality.
 
 ---
 
