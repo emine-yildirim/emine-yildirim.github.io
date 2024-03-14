@@ -27,12 +27,20 @@ Co-organised with my amazing colleague [Francesca Fedele](https://sites.google.c
 | February 27  | Gordana Todorov (Northeastern University)             | Dynkin diagrams and higher: Auslander algebras, Cluster Tilting objects and Preprojective Algebras |
 | March 5      | Anders Sten Kortegård (Aarhus University)             | Derived equivalences of self-injective 2-Calabi—Yau titled algebras |
 | March 12     | Amit Hazi (University of Leeds)                       | Existence and rotatability of the two-colored Jones–Wenzl projector|
-| March 19 (at 2PM)| David Terrence Nkansah (Aarhus University)        |          |
+| March 19 (at 2PM)| David Terrence Nkansah (Aarhus University)        | Nakayama functors are wannabe Serre functors |
 | April 23     | Patrick Kinnear (University of Edinburgh)             |          |
 | April 30     | Nicholas Williams (Lancaster University)              |          |
 
 
 ### Abstracts:
+
+---
+
+David Terrence Nkansah (Aarhus University)
+
+Nakayama functors are wannabe Serre functors 
+
+Classic Auslander-Reiten theory is a neat tool used to paint a portrait of the category of modules over an Artinian ring. Nakayama functors play an important role in this painting. In this talk, we will construct Nakayama functors and Auslander–Reiten translates, on proper abelian subcategories, homologically through approximation theory. These abelian subcategories, defined by Jørgensen in 2022, are generalisations of hearts of t-structures. As a consequence, we will prove that our proper abelian subcategories are dualising k-varieties, that they have enough projectives if and only if they have enough injectives and give a new proof of the existence of Auslander-Reiten translates in the module category of an algebra. 
 
 ---
 
