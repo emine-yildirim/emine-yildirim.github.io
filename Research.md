@@ -31,3 +31,6 @@ I am interested in representation theory of algebras, cluster algebras, their ca
 9. [[published]](https://www.cambridge.org/core/journals/canadian-journal-of-mathematics/article/on-the-combinatorics-of-gentle-algebras/DAC0E0FF011FBAC0FD9E45F473AE2E99)  T. Brüstle, G. Douville, K. Mousavand, H. Thomas, and E. Yıldırım,  *On the combinatorics of gentle algebras*, Canadian Journal of Mathematics (2019), 1-30. https://doi:10.4153/S0008414X19000397.
 
 10. [[published]](http://bims.iranjournals.ir/article_876.html) T. Ozen and E. Yıldırım, *X-Injective and X-Projective Complexes*. Bull. Iranian Math. Soc.Vol. 42 (2016), No. 5, pp. 1221-1235.
+
+
+[Talk](Documents/Sheffield_Mar_2024.pdf)
