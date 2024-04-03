@@ -15,4 +15,4 @@ Exercise Sheets will be uploded below, or check the [Minerva page](https://miner
 >
 > [Exercise Sheet 3](Documents/ex3.pdf) due March 11. [Solutions](Documents/sol3.pdf), [Extra Solutions](Documents/Exercise3-extra.pdf)
 >
-> [Exercise Sheet 4](Documents/ex4.pdf) due April 1.
+> [Exercise Sheet 4](Documents/ex4.pdf) due April 2. [Solutions](Documents/sol4.pdf)
