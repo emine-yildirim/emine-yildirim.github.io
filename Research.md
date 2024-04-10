@@ -32,4 +32,6 @@ I am interested in representation theory of algebras, cluster algebras, their ca
 
 10. [[published]](http://bims.iranjournals.ir/article_876.html) T. Ozen and E. Yıldırım, *X-Injective and X-Projective Complexes*. Bull. Iranian Math. Soc.Vol. 42 (2016), No. 5, pp. 1221-1235.
 
+[Talk](Documents/Dublin Algebra Seminar.pdf)
+
 
