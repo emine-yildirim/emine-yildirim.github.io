@@ -28,11 +28,21 @@ Co-organised with my amazing colleague [Francesca Fedele](https://sites.google.c
 | March 5      | Anders Sten Kortegård (Aarhus University)             | Derived equivalences of self-injective 2-Calabi—Yau titled algebras |
 | March 12     | Amit Hazi (University of Leeds)                       | Existence and rotatability of the two-colored Jones–Wenzl projector|
 | March 19 (at 2PM)| David Terrence Nkansah (Aarhus University)        | Nakayama functors are wannabe Serre functors |
-| April 23     | Patrick Kinnear (University of Edinburgh)             |          |
+| April 23     | Patrick Kinnear (University of Edinburgh)             | Non-semisimple Crane-Yetter varying over the character stack |
 | April 30     | Nicholas Williams (Lancaster University)              |          |
+| May 7        | Martin Palmer (Institutul de Matematică Simion Stoilow al Academiei Române) | |
+| June 4       | Cristina Palmer-Anghel (University of Leeds) | |
 
 
 ### Abstracts:
+
+---
+
+Patrick Kinnear (University of Edinburgh) 
+
+Non-semisimple Crane-Yetter varying over the character stack 
+
+Under the cobordism hypothesis, it is known that the category Rep_q(G) of representations of Lusztig's quantum group at a root of unity defines a fully extended 4-dimensional TQFT. We explain in this talk how to construct from Rep_q(G) a relative TQFT Z. Our theory is defined relative to 4d G-gauge theory at good odd roots of unity (and relative to G^L-gauge theory at good even roots of unity). As we explain, Z assigns (higher) quasicoherent sheaves on the G-character stack. It is known that de-equivariantizing the G-action on Z recovers the invertible theory defined by the non-semisimple representation category Rep u_q for the small quantum group (which we call the non-semisimple Crane-Yetter theory). Our main result is that Z itself is invertible relative to 4d G-gauge theory. Our results imply that to a 3-manifold Z assigns a line bundle on the character stack. To a surface we show that Z assigns an invertible sheaf of categories with global sections the skein category: this gives a global, stacky version of the skein algebra unicity theorem for higher rank groups. In the recently advanced perspective on topological symmetry in QFT, one can regard Z as a boundary wall symmetry defect of G-gauge theory, which is known to be invertible after de-equivariantizing, or gauging. Our main result says that the defect itself is invertible before de-equivariantizing.
 
 ---
 
