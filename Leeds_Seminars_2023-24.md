@@ -31,7 +31,7 @@ Co-organised with my amazing colleague [Francesca Fedele](https://sites.google.c
 | April 23     | Patrick Kinnear (University of Edinburgh)             | Non-semisimple Crane-Yetter varying over the character stack |
 | April 30     | Nicholas Williams (Lancaster University)              |          |
 | May 7        | Martin Palmer (Institutul de Matematică Simion Stoilow al Academiei Române) | Do the dual Miller-Morita-Mumford classes vanish in the homology of the big mapping class group? |
-| May 31       | Tathagata Ghosh (University of Leeds)         |   |
+| May 21       | Tathagata Ghosh (University of Leeds)         |   |
 | June 4       | Cristina Palmer-Anghel (University of Leeds) | |
 
 
