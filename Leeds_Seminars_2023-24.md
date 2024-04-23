@@ -30,11 +30,20 @@ Co-organised with my amazing colleague [Francesca Fedele](https://sites.google.c
 | March 19 (at 2PM)| David Terrence Nkansah (Aarhus University)        | Nakayama functors are wannabe Serre functors |
 | April 23     | Patrick Kinnear (University of Edinburgh)             | Non-semisimple Crane-Yetter varying over the character stack |
 | April 30     | Nicholas Williams (Lancaster University)              |          |
-| May 7        | Martin Palmer (Institutul de Matematică Simion Stoilow al Academiei Române) | |
+| May 7        | Martin Palmer (Institutul de Matematică Simion Stoilow al Academiei Române) | Do the dual Miller-Morita-Mumford classes vanish in the homology of the big mapping class group? |
+| May 31       | Tathagata Ghosh (University of Leeds)         |   |
 | June 4       | Cristina Palmer-Anghel (University of Leeds) | |
 
 
 ### Abstracts:
+
+---
+
+Martin Palmer (Institutul de Matematică Simion Stoilow al Academiei Române)
+
+Do the dual Miller-Morita-Mumford classes vanish in the homology of the big mapping class group?
+
+The Mumford conjecture -- a consequence of the Madsen-Weiss theorem -- describes the rational homology of the mapping class groups Mod(Σ(g,1)) in the limit as g goes to infinity, in terms of the dual Miller-Morita-Mumford (MMM) classes. Instead of taking the colimit of the mapping class groups, one may instead take the colimit of the surfaces Σ(g,1) themselves, to obtain an infinite-type surface Σ(∞), and consider its mapping class group Mod(Σ(∞)), called the "big mapping class group". The structure of its homology is very mysterious, and very large: it is uncountably generated in every positive degree. There is a natural homomorphism from the colimit of Mod(Σ(g,1)) to Mod(Σ(∞)), and one may wonder what its effect is on homology; in particular whether the dual MMM classes vanish on Mod(Σ(∞)). This is a special case of a more general question for any infinite-type surface S: does its mapping class group Mod(S) admit non-zero homology classes supported on a compact subsurface of S? We will give a complete answer to this question when S has non-zero genus (including the case S=Σ(∞)) and a partial answer when S has genus zero. This represents joint work with Xiaolei Wu.
 
 ---
 
