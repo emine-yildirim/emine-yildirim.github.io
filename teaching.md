@@ -6,8 +6,6 @@
 
 # Emine's Teaching Page
 
-> Student : I hate math! <br>
-> Me : Love is never easy.
 
 ## Current teaching:
 
