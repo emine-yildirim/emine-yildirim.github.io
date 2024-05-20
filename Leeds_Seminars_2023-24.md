@@ -31,11 +31,21 @@ Co-organised with my amazing colleague [Francesca Fedele](https://sites.google.c
 | April 23     | Patrick Kinnear (University of Edinburgh)             | Non-semisimple Crane-Yetter varying over the character stack |
 | April 30     | Nicholas Williams (Lancaster University)              | Donaldson--Thomas invariants for the Bridgeland--Smith correspondence |
 | May 7        | Martin Palmer (Institutul de Matematică Simion Stoilow al Academiei Române) | Do the dual Miller-Morita-Mumford classes vanish in the homology of the big mapping class group? |
-| May 21       | Tathagata Ghosh (University of Leeds)         |   |
+| May 21       | Tathagata Ghosh (University of Leeds)         | Instantons and Quivers: An overview |
 | June 4       | Cristina Palmer-Anghel (University of Leeds) | |
 
 
 ### Abstracts:
+
+---
+
+Tathagata Ghosh (University of Leeds)
+
+Instantons and Quivers: An overview
+
+Highly motivated by the interplay among physics, geometry and algebra, in this completely expository but very ambitious talk I aim to review the contributions of instantons in the algebraic study of quivers. Instantons solve the Yang-Mills equations, and are very important objects of study in Quantum field theory and particle physics.
+
+In this talk I will very briefly discuss the ADHM constructions for instantons, instantons on ALE spaces, and as an immediate consequence, quiver varieties! If time permits, I may mention some applications of Quiver varieties in cluster algebras and quantum cluster algebras.
 
 ---
 
