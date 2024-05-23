@@ -31,8 +31,9 @@ Co-organised with my amazing colleague [Francesca Fedele](https://sites.google.c
 | April 23     | Patrick Kinnear (University of Edinburgh)             | Non-semisimple Crane-Yetter varying over the character stack |
 | April 30     | Nicholas Williams (Lancaster University)              | Donaldson--Thomas invariants for the Bridgeland--Smith correspondence |
 | May 7        | Martin Palmer (Institutul de Matematică Simion Stoilow al Academiei Române) | Do the dual Miller-Morita-Mumford classes vanish in the homology of the big mapping class group? |
-| May 21       | Tathagata Ghosh (University of Leeds)         | Instantons and Quivers: An overview |
-| June 4       | Cristina Palmer-Anghel (University of Leeds) | |
+| May 21       | Tathagata Ghosh (University of Leeds)                 | Instantons and Quivers: An overview |
+| June 4       | Cristina Palmer-Anghel (University of Leeds)          | |
+| June 11      | Christine Lee (Texas State University)                | |
 
 
 ### Abstracts:
