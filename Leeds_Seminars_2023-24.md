@@ -32,11 +32,21 @@ Co-organised with my amazing colleague [Francesca Fedele](https://sites.google.c
 | April 30     | Nicholas Williams (Lancaster University)              | Donaldson--Thomas invariants for the Bridgeland--Smith correspondence |
 | May 7        | Martin Palmer (Institutul de Matematică Simion Stoilow al Academiei Române) | Do the dual Miller-Morita-Mumford classes vanish in the homology of the big mapping class group? |
 | May 21       | Tathagata Ghosh (University of Leeds)                 | Instantons and Quivers: An overview |
-| June 4       | Cristina Palmer-Anghel (University of Leeds)          | |
+| June 4       | Cristina Palmer-Anghel (University of Leeds)          | Universal coloured Alexander invariant via configurations on ovals in the disc |
 | June 11      | Christine Lee (Texas State University)                | |
 
 
 ### Abstracts:
+
+---
+
+Cristina Palmer-Anghel (University of Leeds)          
+
+Universal coloured Alexander invariant via configurations on ovals in the disc 
+
+The coloured Jones and Alexander polynomials are quantum invariants that come from representation theory. There are important open problems in quantum topology regarding their geometric information. Our goal is to describe these invariants from a topological viewpoint, as <em>intersections</em> between <em>submanifolds in configuration spaces</em>. We show that the Nth coloured Jones and Alexander polynomials of a knot can be read off from <em>Lagrangian intersections in a fixed configuration space</em>.
+
+At the asymptotic level, we geometrically construct a universal ADO invariant <em>for links</em>, as a limit of invariants given by intersections in configuration spaces. The parallel question of providing an invariant unifying the colored Jones invariants is the subject of the universal Habiro invariant <em>for knots</em>. The universal ADO invariant that we construct recovers all of the coloured Alexander invariants (in particular, the Alexander polynomial in the first term).
 
 ---
 
