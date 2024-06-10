@@ -33,10 +33,18 @@ Co-organised with my amazing colleague [Francesca Fedele](https://sites.google.c
 | May 7        | Martin Palmer (Institutul de Matematică Simion Stoilow al Academiei Române) | Do the dual Miller-Morita-Mumford classes vanish in the homology of the big mapping class group? |
 | May 21       | Tathagata Ghosh (University of Leeds)                 | Instantons and Quivers: An overview |
 | June 4       | Cristina Palmer-Anghel (University of Leeds)          | Universal coloured Alexander invariant via configurations on ovals in the disc |
-| June 11      | Christine Lee (Texas State University)                | |
+| June 11      | Christine Lee (Texas State University)                | A topological model for the HOMFLY-PT polynomial |
 
 
 ### Abstracts:
+
+---
+
+Christine Lee (Texas State University)
+
+A topological model for the HOMFLY-PT polynomial
+ 
+A topological model for a polynomial knot invariant is a realization of the invariant as graded intersection pairings on coverings of configuration spaces. In this talk I will describe a topological model for the HOMFLY-PT polynomial. I plan to discuss the motivation from previous work by Lawrence and Bigelow giving topological models for the Jones and SL_n polynomials, and our construction, joint with Cristina Anghel, which uses a state sum formulation of the HOMFLY-PT polynomial to construct an intersection pairing on the configuration space of a Heegaard surface of the link.
 
 ---
 
