@@ -4,10 +4,12 @@
 [[Leeds Algebra Seminar]](https://emine-yildirim.github.io/Leeds_Seminars_2023-24.html)
 [[Blog]](http://yildirimemine.tumblr.com/)
 
-# The University of Leeds Algebra Seminar 2023/24  
+# 2024/25 organised by Francesca Fedele and Cristina Palmer-Anghel, [see here](https://sites.google.com/view/crt-leeds/activities-in-leeds)
+
+## The University of Leeds Algebra Seminar 2023/24  
 ## Tuesdays 15:00 in MALL
 
-Co-organised with my amazing colleague [Francesca Fedele](https://sites.google.com/view/francescafedele/home).
+Co-organised with [Francesca Fedele](https://sites.google.com/view/francescafedele/home).
 
 | Date         | Speaker                                           | Title    |
 | -------------| --------------------------------------------------| -------------------------------------------------- |
