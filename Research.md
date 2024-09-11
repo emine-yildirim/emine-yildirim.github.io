@@ -12,7 +12,7 @@ I am interested in representation theory of algebras, cluster algebras, their ca
 
 
 
-1. C. Paquette, J. D. Rock, and E. Yıldırım, {\em Representations of thread quivers}, in preparation.
+1. C. Paquette, J. D. Rock, and E. Yıldırım, *Representations of thread quivers*, in preparation.
 
 2. [[arXiv]](https://arxiv.org/pdf/2407.11232) K. Baur, L. Bittmann, E. Gunawan, and G. Todorov, *Infinite friezes of affine type D*, arXiv:2407.11232.
    
@@ -38,7 +38,7 @@ I am interested in representation theory of algebras, cluster algebras, their ca
 
 ### Other prints
 
-K. Baur and E. Yıldırım, {\em Cluster Algebras}, Encyclopedia of Mathematical Physics 2nd edition, book title: Reference Module in Materials Science and Materials Engineering, 2023.
+K. Baur and E. Yıldırım, *Cluster Algebras*, Encyclopedia of Mathematical Physics 2nd edition, book title: Reference Module in Materials Science and Materials Engineering, 2023.
 
 
 
