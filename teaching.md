@@ -24,7 +24,7 @@ Teaching assistant for introductory calculus classes, January 2014 - June 2015.
 
 ## Istanbul Arel University, Türkiye:
 
-Calculus I, II in September 2012 - December 2013. *I was a full time lecturer.*
+Calculus I and II between September 2012 - December 2013. *I was a full time lecturer.*
 
 
 
