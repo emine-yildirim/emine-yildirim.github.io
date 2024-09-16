@@ -4,13 +4,13 @@
 [[Leeds Algebra Seminar]](https://emine-yildirim.github.io/Leeds_Seminars_2023-24.html)
 [[Blog]](http://yildirimemine.tumblr.com/)
 
-# Emine's Teaching Page
+<img src="Pictures/unb-math-camp.jpg" float="left" width="100" height="100">
 
-<img src="Pictures/unb-math-camp.jpg" style="float: left;" width="100" height="100">
+# Emine's Teaching Page
 
 ## University of Leeds, United Kingdom:
 
-1. [**(Advanced) Commutative Rings and Algebraic Geometry**](https://emine-yildirim.github.io/teaching24), Winter 2024. *I was the module leader.*
+1. [**(Advanced) Commutative Rings and Algebraic Geometry**](https://emine-yildirim.github.io/teaching24), Winter 2024. *I was the module leader.* 
 2. **Project in Mathematics**, year 2022-2023. *I was a module co-leader.*
 
 ## Queen's University, Canada:
