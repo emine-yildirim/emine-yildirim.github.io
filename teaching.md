@@ -6,6 +6,7 @@
 
 # Emine's Teaching Page
 
+![](Pictures/unb-math-camp.jpeg)
 
 ## University of Leeds, United Kingdom:
 
