@@ -4,8 +4,6 @@
 [[Leeds Algebra Seminar]](https://emine-yildirim.github.io/Leeds_Seminars_2023-24.html)
 [[Blog]](http://yildirimemine.tumblr.com/)
 
-<img src="Pictures/unb-math-camp.jpg" float="left" width="100" height="100">
-
 # Emine's Teaching Page
 
 ## University of Leeds, United Kingdom:
@@ -27,7 +25,5 @@ Teaching assistant for introductory **calculus** classes, January 2014 - June 20
 
 **Calculus I and II** between September 2012 - December 2013. *I was a full time lecturer.*
 
-
-
-
+<img src="Pictures/unb-math-camp.jpg" float="left" width="100" height="150">
 
