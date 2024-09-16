@@ -1,17 +1,10 @@
-<style>
-   div.side {
-      float: right;
-      width: 20%;
-   }
-</style>
-
 [[Home]](https://emine-yildirim.github.io/) 
 [[Research]](https://emine-yildirim.github.io/Research.html) 
 [[Teaching]](https://emine-yildirim.github.io/teaching.html)
 [[Leeds Algebra Seminar]](https://emine-yildirim.github.io/Leeds_Seminars_2023-24.html)
 [[Blog]](http://yildirimemine.tumblr.com/)
 
-<section>
+
 # Emine's Teaching Page
 
 ## University of Leeds, United Kingdom:
@@ -33,9 +26,6 @@ Teaching assistant for introductory **calculus** classes, January 2014 - June 20
 
 **Calculus I and II** between September 2012 - December 2013. *I was a full time lecturer.*
 
-</section>
+<img src="Pictures/unb-math-camp.jpg" float="right" width="100" height="150">
 
-<div class="side">
-<img src="Pictures/unb-math-camp.jpg" float="left" width="100" height="150">
-</div>
-<<
+
