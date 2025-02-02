@@ -10,7 +10,7 @@
 ## University of Leeds, United Kingdom:
 
 1. [**(Advanced) Commutative Rings and Algebraic Geometry**](https://emine-yildirim.github.io/teaching25.md), 2025. *I am currently the module leader.* 
-2. **(Advanced) Commutative Rings and Algebraic Geometry**, 2024. *I was the module leader.* 
+2. [**(Advanced) Commutative Rings and Algebraic Geometry**](https://emine-yildirim.github.io/teaching24.md), 2024. *I was the module leader.* 
 3. **Project in Mathematics**, year 2022-2023. *I was a module co-leader.*
 
 ## Queen's University, Canada:
