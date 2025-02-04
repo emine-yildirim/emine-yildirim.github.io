@@ -10,3 +10,5 @@ Course Description in the University's module catalogue is [here](https://webpro
 
 Exercise Sheets will be uploded below, or check out the course website on Minerva.
 
+[Exercise Sheet 1](Documents/ex1_2025.pdf) due February 18.
+
