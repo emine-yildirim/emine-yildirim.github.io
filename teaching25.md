@@ -4,7 +4,7 @@
 
 Course Description in the University's module catalogue is [here](https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202425&m=MATH-3195).
 
-<img src="Documents/schedule.jpg" float="right" width="100" height="150">
+<img src="Documents/schedule25.jpg" float="right" width="200" height="150">
 
 [Lecture notes](Documents/February_2025_3195_5195.pdf) by [Eleonore Faber](https://imsc.uni-graz.at/faber/index.html).
 
