@@ -42,7 +42,7 @@ K. Baur and E. Yıldırım, *Cluster Algebras*, Encyclopedia of Mathematical Phy
 
 # Talk
 
-[York 2025](Documents/York Seminar 2025.pdf)
+[York 2025](Documents/York_Seminar_2025.pdf)
 
 
 
