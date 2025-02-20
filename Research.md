@@ -40,5 +40,9 @@ I am interested in representation theory of algebras, cluster algebras, their ca
 
 K. Baur and E. Yıldırım, *Cluster Algebras*, Encyclopedia of Mathematical Physics 2nd edition, book title: Reference Module in Materials Science and Materials Engineering, 2023.
 
+# Talk
+[York 2025](Documents/York Seminar 2025.pdf)
+
+
 
 
