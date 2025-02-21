@@ -14,7 +14,7 @@ I am interested in representation theory of algebras, cluster algebras, their ca
 
 1. [[arXiv]](https://arxiv.org/pdf/2410.14656) C. Paquette, J. D. Rock, and E. Yıldırım, *Categories of generalized thread quivers*, arXiv:2410.14656.
 
-2. [[arXiv]](https://arxiv.org/pdf/2407.11232) K. Baur, L. Bittmann, E. Gunawan, and G. Todorov, *Infinite friezes of affine type D*, arXiv:2407.11232.
+2. [[arXiv]](https://arxiv.org/pdf/2407.11232) K. Baur, L. Bittmann, E. Gunawan, G. Todorov and E. Yıldırım, *Infinite friezes of affine type D*, arXiv:2407.11232.
    
 3. [[arXiv]](https://arxiv.org/pdf/2402.14501.pdf) I. Le and E. Yıldırım, *Cluster Categorification of Rank 2 Webs*, arXiv:2402.14501.
 
