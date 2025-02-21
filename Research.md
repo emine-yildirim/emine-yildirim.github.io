@@ -20,7 +20,7 @@ I am interested in representation theory of algebras, cluster algebras, their ca
 
 4. [[arXiv]](https://arxiv.org/pdf/2401.08285.pdf) A. Felikson, P. Tumarkin  and E. Yıldırım, *Polytopal realizations of non-crystallographic associahedra*, arXiv:2401.08285. Accepted for publication in Algebraic Combinatorics.
 
-5. [[arXiv]](https://arxiv.org/pdf/2211.08011.pdf) E. Kantarcı Oğuz and E. Yıldırım, *Cluster Expansions: T-walks, Labeled Posets and Matrix Calculations*, Journal of Algebra (2025), Vol. 669, pp. 183-219.
+5. [[published]](https://www.sciencedirect.com/science/article/pii/S0021869325000535) E. Kantarcı Oğuz and E. Yıldırım, *Cluster Expansions: T-walks, Labeled Posets and Matrix Calculations*, Journal of Algebra (2025), Vol. 669, pp. 183-219.
 
 6.  [[arXiv]](https://arxiv.org/pdf/2201.04446.pdf) R. Marczinzik, H. Thomas, and E. Yıldırım, *On the interaction of the Coxeter transformation and the Rowmotion bijection*, arXiv:2201.04446 (accepted to Journal of Combinatorial Algebra, DOI 10.4171/JCA/101).
 
