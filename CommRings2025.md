@@ -14,7 +14,8 @@ Exercise Sheets will be uploded below, or check out the course website on Minerv
 
 [Exercise Sheet 2](Documents/ex2_2025.pdf) due March 4.
 
-[Fun1](Documents/3195-MayJune-2024-FINAL.pdf)
-[Fun2](Documents/3195-MayJune-2023-FINAL.pdf)
+[Exercise Sheet 3](Documents/ex3_2025.pdf) due March 18.
+
+
 
 
