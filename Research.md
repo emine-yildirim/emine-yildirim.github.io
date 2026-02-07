@@ -11,7 +11,7 @@
 I am interested in representation theory of algebras, cluster algebras, their categorifications, and related combinatorics. Here is my [CV](Documents/EY_CV_2026.pdf). Below is a list of my papers and here is the link to the [ArXiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Y%C4%B1ld%C4%B1r%C4%B1m%2C+Emine&terms-0-field=author&classification-mathematics=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first) versions.
 
 
-1. [[arxiv]](https://arxiv.org/pdf/2511.19223) F. Campanini, F. Fedele, and E. Yıldırım, *Lattices of Pretorsion Classes*, arxiv.org/pdf/2511.19223.
+1. [[arxiv]](https://arxiv.org/pdf/2511.19223) F. Campanini, F. Fedele, and E. Yıldırım, *Lattices of Pretorsion Classes*, arxiv:2511.19223.
   
 3. [[arXiv]](https://arxiv.org/pdf/2410.14656) C. Paquette, J. D. Rock, and E. Yıldırım, *Categories of generalized thread quivers*, arXiv:2410.14656.
 
