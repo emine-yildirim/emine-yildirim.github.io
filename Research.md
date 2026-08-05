@@ -22,7 +22,7 @@ I am interested in representation theory of algebras, cluster algebras, their ca
 
 6. [[arXiv:2407.11232]](https://arxiv.org/pdf/2407.11232) Karin Baur, Léa Bittmann, Emily Gunawan, Gordana Todorov and Emine Yıldırım, *Infinite friezes of affine type D*, Combinatorial Theory 6 (2) (2026), #12.
 
-7. [[arXiv:2402.14501.pdf]](https://arxiv.org/pdf/2402.14501.pdf) Ian Le and Emine Yıldırım, *Cluster Categorification of Rank 2 Webs*, v1 February 2024 and v2  February 2026.  
+7. [[arXiv:2402.14501]](https://arxiv.org/pdf/2402.14501.pdf) Ian Le and Emine Yıldırım, *Cluster Categorification of Rank 2 Webs*, v1 February 2024 and v2  February 2026.  
 
 8. [[published]](https://alco.centre-mersenne.org/item/10.5802/alco.402.pdf) Anna Felikson, Pavel Tumarkin  and Emine Yıldırım, *Polytopal realizations of non-crystallographic associahedra*, Algebraic Combinatorics, Volume 8, issue 1 (2025), 17-28. [[arxiv]](https://arxiv.org/pdf/2401.08285)
 
