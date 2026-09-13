@@ -1,6 +1,7 @@
 [[Home]](https://emine-yildirim.github.io/) 
 [[Research]](https://emine-yildirim.github.io/Research.html) 
 [[Teaching]](https://emine-yildirim.github.io/teaching.html)
+[[Seminars]](https://emine-yildirim.github.io/Galatasaray_Seminars_2026-2027.html)
 [[Blog]](http://yildirimemine.tumblr.com/)
 
 
