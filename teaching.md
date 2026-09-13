@@ -8,12 +8,12 @@
 
 ## Galatasaray Üniversitesi, Türkiye:
 
-1. **Fondements des Mathématiques MAT 115**
-   [*Voir le website du cours*](https://otomasyon.gsu.edu.tr/)
-   __Jeudi__ 09:00 - 12:00 (Place H307) 
-   __Vendredi__ 14:00 - 16:00 (Place H306)
-2. **Combinatoire MAT 353**
-   [*Voir le website du cours*](https://otomasyon.gsu.edu.tr/)
+1. **Fondements des Mathématiques MAT 115** <br>
+   [*Voir le website du cours*](https://otomasyon.gsu.edu.tr/) <br>
+   __Jeudi__ 09:00 - 12:00 (Place H307) <br>
+   __Vendredi__ 14:00 - 16:00 (Place H306) 
+2. **Combinatoire MAT 353** <br>
+   [*Voir le website du cours*](https://otomasyon.gsu.edu.tr/) <br>
    __Lundi__ 14:00 - 17:00 (Place H304)
 
 ## University of Leeds, United Kingdom:
