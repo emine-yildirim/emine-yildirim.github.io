@@ -10,8 +10,8 @@
 
 Co-organised with [Sylvain Lavau](https://www.sylvainlavau.com/)
 
-| Date         | Speaker                                           | Title    |
-| -------------| --------------------------------------------------| -------------------------------------------------- |
+| Date                | Speaker                                           | Title    |
+| --------------------| --------------------------------------------------| -------------------------------------------------- |
 | September 23 | Emine Yıldırım (Galatasaray University)           | A mirror deformation of Markov numbers  |
 | October 7    | Özge Ülkem (Academia Sinica)                      | TBA  |
 | October 21   | Begüm Gülşah Çaktı (Galatasaray University)       | TBA  |
