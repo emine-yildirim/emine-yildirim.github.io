@@ -18,7 +18,7 @@ Co-organised with [Sylvain Lavau](https://www.sylvainlavau.com/)
 | October 27*   | Panagiotis Batakidis (Aristotle University of Thessaloniki) | TBA  |
 | November 4   | Gökalp Alpan (Sabancı University)                 | TBA  |
 
-* \*\Note that this seminer is Tuesday on October 27th at 13:00.
+* \*Note that this seminer is Tuesday on October 27th at 13:00.
   
 ### Abstracts:
 
