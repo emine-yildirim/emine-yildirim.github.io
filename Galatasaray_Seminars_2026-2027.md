@@ -6,7 +6,7 @@
 
 
 ## Galatasaray Üniversity Department of Mathematics Seminars 2026/27  
-## Wednesdays biweekly 16:00 
+## In general : Wednesdays biweekly 16:00 in H307
 
 Co-organised with [Sylvain Lavau](https://www.sylvainlavau.com/)
 
