@@ -15,9 +15,9 @@ Co-organised with [Sylvain Lavau](https://www.sylvainlavau.com/)
 | September 23 | Emine Yıldırım (Galatasaray University)           | A mirror deformation of Markov numbers  |
 | October 7    | Özge Ülkem (Academia Sinica)                      | TBA  |
 | October 21   | Begüm Gülşah Çaktı (Galatasaray University)       | TBA  |
-| October 27*   | Panagiotis Batakidis (Aristotle University of Thessaloniki) | TBA  |
+| October 27*  | Panagiotis Batakidis (Aristotle University of Thessaloniki) | TBA  |
 | November 4   | Gökalp Alpan (Sabancı University)                 | TBA  |
-
+| December 2   | Aybike Özer (İstanbul Technical University)       | TBA  |  
 * \*Note that this seminer is Tuesday on October 27th at 13:00.
   
 ### Abstracts:
