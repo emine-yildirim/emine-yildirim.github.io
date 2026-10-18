@@ -15,7 +15,7 @@ Co-organised with [Sylvain Lavau](https://www.sylvainlavau.com/)
 | September 23 | Emine Yıldırım (Galatasaray University)           | A mirror deformation of Markov numbers  |
 | October 7    | Özge Ülkem (Academia Sinica)                      | Drinfeld's analogues of elliptic curves: From Carlitz modules to shtukas  |
 | October 21   | Begüm Gülşah Çaktı (Galatasaray University)       | Fermat’s Last Theorem and Beyond |
-| October 27*  | Panagiotis Batakidis (Aristotle University of Thessaloniki) | TBA  |
+| October 27*  | Panagiotis Batakidis (Aristotle University of Thessaloniki) | Topological and Delzant-type classification of quaternionic torus actions  |
 | November 4   | Gökalp Alpan (Sabancı University)                 | TBA  |
 | December 2   | Aybike Özer (İstanbul Technical University)       | TBA  |  
 
