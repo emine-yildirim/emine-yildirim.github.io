@@ -19,7 +19,7 @@ Co-organised with [Sylvain Lavau](https://www.sylvainlavau.com/)
 | November 4   | Gökalp Alpan (Sabancı University)                 | TBA  |
 | December 2   | Aybike Özer (İstanbul Technical University)       | TBA  |  
 
-\* Note that this seminer is Tuesday on October 27th at 13:00.
+\* Note that this seminer is Tuesday on October 27th at 13:30 in H307.
   
 ### Abstracts:
 
