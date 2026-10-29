@@ -16,7 +16,7 @@ Co-organised with [Sylvain Lavau](https://www.sylvainlavau.com/)
 | October 7    | Özge Ülkem (Academia Sinica)                      | Drinfeld's analogues of elliptic curves: From Carlitz modules to shtukas  |
 | October 21   | Begüm Gülşah Çaktı (Galatasaray University)       | Fermat’s Last Theorem and Beyond |
 | October 27*  | Panagiotis Batakidis (Aristotle University of Thessaloniki) | Topological and Delzant-type classification of quaternionic torus actions  |
-| November 4   | Gökalp Alpan (Sabancı University)                 | TBA  |
+| November 4   | Gökalp Alpan (Sabancı University)                 | A Four-Way Szegő Theorem  |
 | December 2   | Aybike Özer (İstanbul Technical University)       | TBA  |  
 
 \* Note that this seminer is Tuesday on October 27th at 13:30 in H307.
@@ -53,7 +53,15 @@ Panagiotis Batakidis (Aristotle University of Thessaloniki)
 
 **Topological and Delzant-type classification of quaternionic torus actions**
 
- Let Q=S^3 be the quaternionic torus. We first discuss local Q^n actions on 4n-manifolds and the obstruction to global existence. We then classify such actions via a combinatorial and a cohomological invariant. In the second part of the talk, quaternionic toric geometry is related to tetraplectic geometry, a generalization of symplectic geometry, via lagrangian toric fibrations. For this we use a quaternionic version of the Arnold-Liouville theorem and finally we classify orbit spaces via a quaternionic Delzant theorem. This is joint work with I. Gkeneralis.
+Let Q=S^3 be the quaternionic torus. We first discuss local Q^n actions on 4n-manifolds and the obstruction to global existence. We then classify such actions via a combinatorial and a cohomological invariant. In the second part of the talk, quaternionic toric geometry is related to tetraplectic geometry, a generalization of symplectic geometry, via lagrangian toric fibrations. For this we use a quaternionic version of the Arnold-Liouville theorem and finally we classify orbit spaces via a quaternionic Delzant theorem. This is joint work with I. Gkeneralis.
 
  ---
+
+ Gökalp Alpan (Sabancı University)  
+
+**A Four-Way Szegő Theorem**
+
+For a fixed degree, we consider the problem of minimizing an Lp norm with respect to a measure or a weighted supremum norm on a compact set among all monic polynomials. The resulting extremal polynomials include orthogonal and Chebyshev polynomials. A classical question, going back to Szegő, concerns how their asymptotic behavior reflects both the measure and the geometry of its support.
+
+In this talk, I will start with the classical real-line setting and then turn to compact sets that may have infinitely many gaps and isolated points. I will introduce normalized extremal norms, usually called Widom factors, and discuss the role of Szegő-type ideas in their asymptotic study. The focus will be on general estimates and examples illustrating the different behaviors that can arise. This is joint work with Maxim Zinchenko.
 
